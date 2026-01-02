@@ -1,45 +1,49 @@
-🎥 Video Question Answering System (Streamlit + Ollama)
+# 🎥 Video Question Answering System (Streamlit + Ollama)
 
-This project builds an end-to-end Video Question Answering (Video-QA) system that allows users to ask questions about tutorial videos and receive precise answers with video names and timestamps.
+This project implements an **end-to-end Video Question Answering (Video-QA) system** that allows users to ask questions about tutorial videos and receive **precise answers with video names and timestamps**.
 
-The system works completely offline using Ollama, Whisper, and Streamlit.
+The entire system works **offline**, using **Whisper** for transcription, **Ollama** for embeddings and LLM inference, and **Streamlit** for the user interface.
 
-🚀 Features
+---
 
-🎧 Convert videos to audio automatically
+## 🚀 Features
 
-📝 Transcribe & translate audio using Whisper
+- 🎧 Automatically convert videos to audio
+- 📝 Transcribe and translate audio using Whisper
+- ✂️ Chunk transcripts with precise timestamps
+- 🧠 Generate semantic embeddings using **bge-m3**
+- 🔍 Perform similarity search over video content
+- 🤖 Answer questions using an LLM (**LLaMA**)
+- 🖥️ Interactive Streamlit web interface
+- 📍 Timestamp-based video guidance
 
-✂️ Chunk transcripts with timestamps
+---
 
-🧠 Generate semantic embeddings (bge-m3)
+## 📂 Project Structure
 
-🔍 Perform cosine similarity search
-
-🤖 Answer queries using an LLM (LLaMA)
-
-🖥️ Interactive Streamlit web interface
-
-📍 Timestamp-based video guidance
-
-📂 Project Structure
+```text
 .
-├── app.py                          # Streamlit web application
-├── step1_process_vedio.py          # Video → Audio conversion
-├── step2_creating_chunks.py        # Transcription & chunk creation
+├── app.py                                   # Streamlit web application
+├── step1_process_vedio.py                   # Video → Audio conversion
+├── step2_creating_chunks.py                 # Transcription & chunk creation
 ├── step3_saving_the_chucks_with_embeddings.py
-├── step4_reading.py                # Create embedding DataFrame
-├── step5_incoming_query.py         # CLI-based QA (optional)
+├── step4_reading.py                         # Create embedding DataFrame
+├── step5_incoming_query.py                  # CLI-based QA (optional)
 │
-├── Vedios/                         # Input video files
-├── audios/                         # Extracted audio files
-├── Json/                           # Transcription JSON files
-├── jsons/                          # JSON files with embeddings
-├── Dataframe_with_embeddings.joblib
-├── prompt.txt                      # Prompt sent to LLM
-└── response.txt                    # LLM response output
+├── Vedios/                                  # Input video files
+├── audios/                                  # Extracted audio files
+├── Json/                                    # Transcription JSON files
+├── jsons/                                   # JSON files with embeddings
+├── Dataframe_with_embeddings.joblib         # Vector store
+├── prompt.txt                               # Prompt sent to LLM
+└── response.txt                             # LLM response output
+```
 
-🧩 Pipeline Overview
+---
+
+## 🧩 Pipeline Overview
+
+```text
 Videos
   ↓
 Audio Extraction (FFmpeg)
@@ -48,172 +52,166 @@ Transcription & Translation (Whisper)
   ↓
 Timestamped Text Chunks
   ↓
-Embeddings (Ollama - bge-m3)
+Embeddings (Ollama – bge-m3)
   ↓
 Similarity Search
   ↓
 LLM Answer Generation
   ↓
 Streamlit UI Output
+```
 
-🛠️ Step-by-Step File Explanation
-🔹 step1_process_vedio.py
+---
 
-Purpose: Convert videos into audio files
+## 🛠️ Step-by-Step File Explanation
 
-Reads videos from Vedios/
+### 🔹 step1_process_vedio.py
+**Purpose:** Convert videos into audio files
 
-Extracts tutorial number & title
+- Reads videos from the `Vedios/` directory
+- Extracts tutorial number and title
+- Converts videos to `.mp3` using FFmpeg
 
-Converts videos to .mp3 using FFmpeg
+---
 
-🔹 step2_creating_chunks.py
+### 🔹 step2_creating_chunks.py
+**Purpose:** Transcribe and chunk audio
 
-Purpose: Transcribe and chunk audio
+- Uses Whisper (`medium` model)
+- Translates Hindi → English
+- Stores text with start and end timestamps
+- Outputs structured JSON files
 
-Uses Whisper (medium model)
+---
 
-Translates Hindi → English
+### 🔹 step3_saving_the_chucks_with_embeddings.py
+**Purpose:** Generate embeddings
 
-Stores text with start & end timestamps
+- Uses Ollama embedding API (`bge-m3`)
+- Batch embedding with fallback mechanism
+- Filters invalid or very short text chunks
+- Saves embeddings into JSON files
 
-Outputs structured JSON files
+---
 
-🔹 step3_saving_the_chucks_with_embeddings.py
+### 🔹 step4_reading.py
+**Purpose:** Create a unified vector store
 
-Purpose: Generate embeddings
+- Loads all embedded JSON files
+- Combines chunks into a single Pandas DataFrame
+- Saves the DataFrame as `Dataframe_with_embeddings.joblib`
 
-Uses Ollama embedding API (bge-m3)
+---
 
-Batch embedding with fallback mechanism
+### 🔹 step5_incoming_query.py (Optional)
+**Purpose:** CLI-based question answering
 
-Filters invalid or very short text
+- Accepts user queries from terminal
+- Finds relevant video chunks
+- Generates LLM-based answers
+- Saves prompt and response to files
 
-Saves embeddings into JSON
+---
 
-🔹 step4_reading.py
+### 🔹 app.py (Main Application)
+**Purpose:** Streamlit web interface
 
-Purpose: Create a unified vector store
+- Accepts user questions
+- Computes semantic similarity
+- Retrieves top matching video segments
+- Generates LLM-based answers
+- Displays results in a clean, interactive UI
 
-Loads all embedded JSON files
+---
 
-Combines chunks into a Pandas DataFrame
+## 📦 Requirements
 
-Saves as Dataframe_with_embeddings.joblib
+### System Requirements
+- Python 3.9+
+- FFmpeg
+- Ollama (running locally)
+- GPU recommended (for Whisper)
 
-🔹 step5_incoming_query.py (Optional)
+### Python Dependencies
 
-Purpose: CLI-based question answering
-
-Takes user input
-
-Finds relevant video chunks
-
-Generates LLM answer
-
-Saves prompt & response to files
-
-🔹 app.py (Main Application)
-
-Purpose: Streamlit web interface
-
-Accepts user questions
-
-Computes semantic similarity
-
-Retrieves top video matches
-
-Generates LLM-based answers
-
-Displays results in a clean UI
-
-📦 Requirements
-System
-
-Python 3.9+
-
-FFmpeg
-
-Ollama (running locally)
-
-GPU recommended (for Whisper)
-
-Python Dependencies
+```bash
 pip install streamlit joblib numpy pandas scikit-learn requests torch whisper
+```
 
-🧠 Ollama Setup
+---
 
-Start Ollama:
+## 🧠 Ollama Setup
 
+```bash
 ollama serve
-
-
-Pull required models:
-
 ollama pull bge-m3
 ollama pull llama3.2
+```
 
-▶️ How to Run the Project
-1️⃣ Prepare the Data (run once)
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Prepare the Data (run once)
+
+```bash
 python step1_process_vedio.py
 python step2_creating_chunks.py
 python step3_saving_the_chucks_with_embeddings.py
 python step4_reading.py
+```
 
-2️⃣ Launch the Streamlit App
+### 2️⃣ Launch the Streamlit App
+
+```bash
 python -m streamlit run app.py
+```
 
+Open in your browser:
 
-Open in browser:
-
+```text
 http://localhost:8501
+```
 
-🎯 Usage Example
+---
 
-Enter a question like:
+## 🎯 Usage Example
 
+```text
+Question:
 What are semantic HTML tags?
 
+Output:
+• Video: HTML_Tutorial_11.mp3
+• Timestamp: 04:18 – 06:42
+• Explanation: Semantic tags define the meaning of HTML elements...
+```
 
-The app will:
+---
 
-Search related video segments
+## 🔐 Notes & Limitations
 
-Identify exact timestamps
+- Answers are strictly based on video content
+- Unrelated questions are rejected
+- Ollama must be running locally
+- Embeddings must be regenerated if videos change
 
-Generate a clear, guided answer
+---
 
-🔐 Notes & Limitations
+## 🌱 Future Improvements
 
-Answers are strictly based on video content
+- FAISS integration for faster search
+- Clickable video timestamps
+- Multi-video filtering
+- Chat history & conversational memory
+- Cloud deployment
+- Enhanced UI & analytics
 
-Unrelated questions are rejected
+---
 
-Requires Ollama to be running
+## 🙌 Acknowledgements
 
-Embeddings must be regenerated if videos change
-
-🌱 Future Improvements
-
-FAISS for faster search
-
-Clickable video timestamps
-
-Multi-video filtering
-
-Chat history memory
-
-Deployment on cloud / Hugging Face
-
-Better UI & analytics
-
-🙌 Acknowledgements
-
-OpenAI Whisper
-
-Ollama
-
-Streamlit
-
-Scikit-learn
-
+- OpenAI Whisper
+- Ollama
+- Streamlit
+- Scikit-learn

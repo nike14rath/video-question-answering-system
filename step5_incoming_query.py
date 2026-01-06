@@ -46,7 +46,7 @@ incoming_query = input("Ask a Question:")
 # taking the first values here that's why [0]
 embedding = create_embeddings([incoming_query])
 Query_vector = embedding['embeddings'][0]
-# print(embedding['embeddings'])
+print(embedding['embeddings'])
 
 
 
@@ -58,6 +58,7 @@ top_results = 5  # variable to get the top results that are matching with our pr
 
 # print(similarity)
 max_index = similarity.argsort()[::-1][0:top_results]
+print(max_index)
 
 new_df = df.iloc[max_index]
 print(new_df[['Video','start', 'end', "text"]])

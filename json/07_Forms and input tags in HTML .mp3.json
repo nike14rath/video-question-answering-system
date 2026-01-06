@@ -1,0 +1,2447 @@
+{
+    "chunks": [
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 0.0,
+            "end": 4.9,
+            "text": " In this video, we will know what are the forms and what is the input tag in the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 4.9,
+            "end": 7.8,
+            "text": " Using the form is an important element of websites"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 7.8,
+            "end": 11.3,
+            "text": " because you submit data from client to server through the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 11.3,
+            "end": 16.2,
+            "text": " These are the forms which you see on contact pages, google forms or enquiry forms"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 16.2,
+            "end": 20.6,
+            "text": " The details of the flight or railway ticket, date and time, where to go and where to go"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 20.6,
+            "end": 23.0,
+            "text": " are submitted through the HTML forms"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 23.0,
+            "end": 24.8,
+            "text": " In the last video, very few people liked it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 24.8,
+            "end": 28.2,
+            "text": " I will request you to like this video with high energy"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 28.2,
+            "end": 31.0,
+            "text": " so that we can maintain high energy throughout the course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 31.0,
+            "end": 36.2,
+            "text": " So let's go to the computer screen and see the forms, input tags and some best practices"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 36.2,
+            "end": 37.7,
+            "text": " Let's roll the intro"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 46.7,
+            "end": 48.7,
+            "text": " So guys, I have come to my computer screen"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 48.7,
+            "end": 51.7,
+            "text": " and now see I am going to make a folder here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 51.7,
+            "end": 53.7,
+            "text": " which I am going to name video6"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 53.7,
+            "end": 56.7,
+            "text": " because this is the 6th video, I will click on shift right and open with code"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 57.2,
+            "end": 59.2,
+            "text": " I have already told you all about this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 59.2,
+            "end": 62.2,
+            "text": " and now I am going to make index.html"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 62.2,
+            "end": 64.2,
+            "text": " and I will put an exclamation mark in it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 64.2,
+            "end": 68.2,
+            "text": " I will do view word wrap, screen cast mode"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 68.2,
+            "end": 71.2,
+            "text": " and I will write forms here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 71.2,
+            "end": 73.2,
+            "text": " let's learn it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 73.2,
+            "end": 76.2,
+            "text": " so I have set the title of this forms page"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 76.2,
+            "end": 80.2,
+            "text": " and by setting the title, we can see the actual title on our page"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 80.2,
+            "end": 83.2,
+            "text": " and I want to tell you about a very important setting"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 83.7,
+            "end": 86.7,
+            "text": " some of you guys have also asked me in the comments"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 86.7,
+            "end": 89.7,
+            "text": " if we have to click so many times, can we do something?"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 89.7,
+            "end": 92.7,
+            "text": " yes, you can click on gear, then on settings"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 92.7,
+            "end": 99.7,
+            "text": " and after that, you can simply write live preview"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 99.7,
+            "end": 101.7,
+            "text": " and we can actually set it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 101.7,
+            "end": 105.7,
+            "text": " so that whenever we click on it, it will open on the external browser"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 105.7,
+            "end": 107.7,
+            "text": " so now I will close everything"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 107.7,
+            "end": 110.7,
+            "text": " and as soon as I click on it, it will open on the external browser"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 111.2,
+            "end": 113.2,
+            "text": " and I will come to my browser"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 113.2,
+            "end": 117.2,
+            "text": " and I am sure you can access the sigma web development codes playlist"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 117.2,
+            "end": 119.2,
+            "text": " by clicking on star or bookmark"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 119.2,
+            "end": 123.2,
+            "text": " but I want to tell you guys that as soon as we click on it, it will open"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 123.2,
+            "end": 125.2,
+            "text": " so if you want to do this, then do it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 125.2,
+            "end": 128.2,
+            "text": " but sometimes you will want to do side by side view"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 128.2,
+            "end": 131.2,
+            "text": " and when you want to do that, you can do it by using HTML CSS"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 131.2,
+            "end": 133.2,
+            "text": " and working on design"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 133.2,
+            "end": 138.2,
+            "text": " so whenever you are working on design, you will definitely want to see live previews"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 138.2,
+            "end": 140.2,
+            "text": " which is why this extension was made"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 140.2,
+            "end": 142.2,
+            "text": " and this live preview was made different from the live server"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 142.2,
+            "end": 144.2,
+            "text": " so that you can see the previews on the side"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 144.2,
+            "end": 146.2,
+            "text": " now what we will do here is"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 146.2,
+            "end": 148.2,
+            "text": " we will go to forms"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 148.2,
+            "end": 150.2,
+            "text": " you know the name of the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 150.2,
+            "end": 152.2,
+            "text": " which is the railway form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 152.2,
+            "end": 154.2,
+            "text": " we fill it and our reservation is done"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 154.2,
+            "end": 156.2,
+            "text": " along with that, we fill the form of IIT JEE, NEET"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 156.2,
+            "end": 158.2,
+            "text": " we fill the form of any exam"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 158.2,
+            "end": 161.2,
+            "text": " so that our data can reach those who want it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 161.2,
+            "end": 163.2,
+            "text": " so this is the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 163.2,
+            "end": 165.2,
+            "text": " HTML is a form tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 165.2,
+            "end": 167.2,
+            "text": " as soon as you type the form, you will type enter"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 167.2,
+            "end": 169.2,
+            "text": " so now the first question is"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 169.2,
+            "end": 171.2,
+            "text": " what is the action of your form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 171.2,
+            "end": 173.2,
+            "text": " get or post"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 173.2,
+            "end": 175.2,
+            "text": " let me tell you a quick difference between get request and post request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 175.2,
+            "end": 177.2,
+            "text": " we will see this later"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 177.2,
+            "end": 179.2,
+            "text": " get request is a very simple request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 179.2,
+            "end": 181.2,
+            "text": " and post request is used"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 181.2,
+            "end": 183.2,
+            "text": " in most of the cases"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 183.2,
+            "end": 185.2,
+            "text": " when we have to give a lot of data"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 185.2,
+            "end": 187.2,
+            "text": " like whenever our form is posted"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 187.2,
+            "end": 189.2,
+            "text": " we will use post request in most of the cases"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 189.2,
+            "end": 191.2,
+            "text": " and what is get request?"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 191.2,
+            "end": 193.2,
+            "text": " it is a very simple request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 193.2,
+            "end": 195.2,
+            "text": " that we just have to tell the server something"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 195.2,
+            "end": 197.2,
+            "text": " or we have to hit the server with a request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 197.2,
+            "end": 199.2,
+            "text": " that's it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 199.2,
+            "end": 201.2,
+            "text": " but if you still don't understand this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 201.2,
+            "end": 203.2,
+            "text": " that should be fine"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 203.2,
+            "end": 205.2,
+            "text": " because we will do this in detail later"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 205.2,
+            "end": 207.2,
+            "text": " so form action is equal to post"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 207.2,
+            "end": 209.2,
+            "text": " now I can show you some input tags"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 209.2,
+            "end": 211.2,
+            "text": " I will tell you what are the input tags"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 211.2,
+            "end": 213.2,
+            "text": " what elements will be present in your form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 213.2,
+            "end": 215.2,
+            "text": " like you can put date"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 215.2,
+            "end": 217.2,
+            "text": " you can put name in the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 217.2,
+            "end": 219.2,
+            "text": " you can tell your phone number"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 219.2,
+            "end": 221.2,
+            "text": " you can tell your age"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 221.2,
+            "end": 223.2,
+            "text": " it can be just a number"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 223.2,
+            "end": 225.2,
+            "text": " you can put such elements in the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 225.2,
+            "end": 227.2,
+            "text": " so I want to tell you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 227.2,
+            "end": 229.2,
+            "text": " that the input tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 229.2,
+            "end": 231.2,
+            "text": " that you put in the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 231.2,
+            "end": 233.2,
+            "text": " and there is a label tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 233.2,
+            "end": 235.2,
+            "text": " which is used to label the input"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 235.2,
+            "end": 237.2,
+            "text": " so what I will do here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 237.2,
+            "end": 239.2,
+            "text": " the simplest input tag is type is equal to text"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 239.2,
+            "end": 241.2,
+            "text": " so I will put type is equal to text"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 241.2,
+            "end": 243.2,
+            "text": " and if I zoom out"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 243.2,
+            "end": 245.2,
+            "text": " and if I zoom out"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 245.2,
+            "end": 247.2,
+            "text": " so here input type is equal to text"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 247.2,
+            "end": 249.2,
+            "text": " name is equal to username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 249.2,
+            "end": 251.2,
+            "text": " placeholder is enter username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 251.2,
+            "end": 253.2,
+            "text": " so you can say enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 253.2,
+            "end": 255.2,
+            "text": " and the user"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 255.2,
+            "end": 257.2,
+            "text": " you have to enter his username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 257.2,
+            "end": 259.2,
+            "text": " I will write an h1"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 259.2,
+            "end": 261.2,
+            "text": " and I will write"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 261.2,
+            "end": 263.2,
+            "text": " form to apply"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 263.2,
+            "end": 265.2,
+            "text": " for ta"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 265.2,
+            "end": 267.2,
+            "text": " for sigma web dev ta"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 267.2,
+            "end": 269.2,
+            "text": " sigma web"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 269.2,
+            "end": 271.2,
+            "text": " development course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 271.2,
+            "end": 273.2,
+            "text": " ta"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 273.2,
+            "end": 275.2,
+            "text": " suppose we are hiring teaching assistants"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 275.2,
+            "end": 277.2,
+            "text": " for sigma web development course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 277.2,
+            "end": 279.2,
+            "text": " so we can write something like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 279.2,
+            "end": 281.2,
+            "text": " by the way I have put subtitles"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 281.2,
+            "end": 283.2,
+            "text": " if you haven't access the playlist"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 283.2,
+            "end": 285.2,
+            "text": " and along with that"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 285.2,
+            "end": 287.2,
+            "text": " I will show you one more thing"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 287.2,
+            "end": 289.2,
+            "text": " these subtitles are very funny"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 289.2,
+            "end": 291.2,
+            "text": " and give your village land to me"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 291.2,
+            "end": 293.2,
+            "text": " so if someone is watching this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 293.2,
+            "end": 295.2,
+            "text": " or someone who doesn't know Hindi"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 295.2,
+            "end": 297.2,
+            "text": " he will say"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 297.2,
+            "end": 299.2,
+            "text": " what happened till here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 299.2,
+            "end": 301.2,
+            "text": " and give your village land to me"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 301.2,
+            "end": 303.2,
+            "text": " so you can see here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 303.2,
+            "end": 305.2,
+            "text": " I have put h1 here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 305.2,
+            "end": 307.2,
+            "text": " which is our main heading"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 307.2,
+            "end": 309.2,
+            "text": " and we use label tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 309.2,
+            "end": 311.2,
+            "text": " so for is equal to"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 311.2,
+            "end": 313.2,
+            "text": " I will write his id"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 313.2,
+            "end": 315.2,
+            "text": " for example his id username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 315.2,
+            "end": 317.2,
+            "text": " and for is equal to"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 317.2,
+            "end": 319.2,
+            "text": " I will put his id"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 319.2,
+            "end": 321.2,
+            "text": " now what is this id"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 321.2,
+            "end": 323.2,
+            "text": " I will tell you this later"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 323.2,
+            "end": 325.2,
+            "text": " for now you just need to understand"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 325.2,
+            "end": 327.2,
+            "text": " that this is unique identifier"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 327.2,
+            "end": 329.2,
+            "text": " and to identify this element"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 329.2,
+            "end": 331.2,
+            "text": " like your Aadhar number"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 331.2,
+            "end": 333.2,
+            "text": " is not of any other"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 333.2,
+            "end": 335.2,
+            "text": " so this is the id username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 335.2,
+            "end": 337.2,
+            "text": " so I have written label for is equal to"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 337.2,
+            "end": 339.2,
+            "text": " username and input"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 339.2,
+            "end": 341.2,
+            "text": " and you can see here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 341.2,
+            "end": 343.2,
+            "text": " the label will come"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 343.2,
+            "end": 345.2,
+            "text": " so I have not put anything in the label"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 345.2,
+            "end": 347.2,
+            "text": " so I will put enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 347.2,
+            "end": 349.2,
+            "text": " and you can see"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 349.2,
+            "end": 351.2,
+            "text": " as soon as I put this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 351.2,
+            "end": 353.2,
+            "text": " you will see enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 353.2,
+            "end": 355.2,
+            "text": " and after that you can enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 355.2,
+            "end": 357.2,
+            "text": " along with that you can enter your expertise"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 357.2,
+            "end": 359.2,
+            "text": " anything you want"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 359.2,
+            "end": 361.2,
+            "text": " like I want to know your gender"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 361.2,
+            "end": 363.2,
+            "text": " so I can do something like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 363.2,
+            "end": 365.2,
+            "text": " enter your gender and as soon as I do this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 365.2,
+            "end": 367.2,
+            "text": " I can ask you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 367.2,
+            "end": 369.2,
+            "text": " what is this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 369.2,
+            "end": 371.2,
+            "text": " now what happens is"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 371.2,
+            "end": 373.2,
+            "text": " we can wrap this in div"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 373.2,
+            "end": 375.2,
+            "text": " div is our block element"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 375.2,
+            "end": 377.2,
+            "text": " and I have not told you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 377.2,
+            "end": 379.2,
+            "text": " what are inline and block elements"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 379.2,
+            "end": 381.2,
+            "text": " in this course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 381.2,
+            "end": 383.2,
+            "text": " but I will tell you in the next videos"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 383.2,
+            "end": 385.2,
+            "text": " so for now you just need to understand"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 385.2,
+            "end": 387.2,
+            "text": " that I am putting this in div"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 387.2,
+            "end": 389.2,
+            "text": " so as soon as I put this in div"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 389.2,
+            "end": 391.2,
+            "text": " it will come in new space"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 391.2,
+            "end": 393.2,
+            "text": " so you don't prefer br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 393.2,
+            "end": 395.2,
+            "text": " and you will get to know why"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 395.2,
+            "end": 397.2,
+            "text": " we don't want to bloat our html with br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 397.2,
+            "end": 399.2,
+            "text": " you will get to know this in the next videos"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 399.2,
+            "end": 401.2,
+            "text": " now you can see"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 401.2,
+            "end": 403.2,
+            "text": " enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 403.2,
+            "end": 405.2,
+            "text": " male or female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 405.2,
+            "end": 407.2,
+            "text": " now as soon as I click on female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 407.2,
+            "end": 409.2,
+            "text": " this radio button is selected"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 409.2,
+            "end": 411.2,
+            "text": " why is this happening"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 411.2,
+            "end": 413.2,
+            "text": " because the label"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 413.2,
+            "end": 415.2,
+            "text": " I have put for is equal to female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 415.2,
+            "end": 417.2,
+            "text": " and here I have put id female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 417.2,
+            "end": 419.2,
+            "text": " and along with that I have put their names"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 419.2,
+            "end": 421.2,
+            "text": " I have also put this input tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 421.2,
+            "end": 423.2,
+            "text": " and name is equal to gender"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 423.2,
+            "end": 425.2,
+            "text": " and also input radio tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 425.2,
+            "end": 427.2,
+            "text": " and as soon as we have type is equal to radio"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 427.2,
+            "end": 429.2,
+            "text": " it means this is radio button"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 429.2,
+            "end": 431.2,
+            "text": " and if we have same name"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 431.2,
+            "end": 433.2,
+            "text": " then only one of them can be selected"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 433.2,
+            "end": 435.2,
+            "text": " so if I select this then only this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 435.2,
+            "end": 437.2,
+            "text": " and if I select this then only this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 437.2,
+            "end": 439.2,
+            "text": " now let me show you one thing"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 439.2,
+            "end": 441.2,
+            "text": " if I mess up the id in the label"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 441.2,
+            "end": 443.2,
+            "text": " and here also in the form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 443.2,
+            "end": 445.2,
+            "text": " let's say I don't mess up the first one"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 445.2,
+            "end": 447.2,
+            "text": " but I mess up the second one"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 447.2,
+            "end": 449.2,
+            "text": " so I am not selecting"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 449.2,
+            "end": 451.2,
+            "text": " I am clicking on male and it is selected"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 451.2,
+            "end": 453.2,
+            "text": " so to select female I have to click here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 453.2,
+            "end": 455.2,
+            "text": " so what I have to do"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 455.2,
+            "end": 457.2,
+            "text": " is always put for is equal to"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 457.2,
+            "end": 459.2,
+            "text": " the id of the input tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 459.2,
+            "end": 461.2,
+            "text": " so you can see here I have put"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 461.2,
+            "end": 463.2,
+            "text": " label for is equal to female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 463.2,
+            "end": 465.2,
+            "text": " along with that we have an input tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 465.2,
+            "end": 467.2,
+            "text": " which is type is equal to checkbox"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 467.2,
+            "end": 469.2,
+            "text": " now if I put type is equal to checkbox"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 469.2,
+            "end": 471.2,
+            "text": " I will put this in div"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 471.2,
+            "end": 473.2,
+            "text": " and right click and format the document"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 473.2,
+            "end": 475.2,
+            "text": " as soon as I do this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 475.2,
+            "end": 477.2,
+            "text": " it will be very good"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 477.2,
+            "end": 479.2,
+            "text": " so its formatting and indents will be very good"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 479.2,
+            "end": 481.2,
+            "text": " now here you can see"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 481.2,
+            "end": 483.2,
+            "text": " subscribe to newsletter"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 483.2,
+            "end": 485.2,
+            "text": " and radio button and checkbox"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 485.2,
+            "end": 487.2,
+            "text": " you can check different checkbox"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 487.2,
+            "end": 489.2,
+            "text": " here if you want male or female"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 489.2,
+            "end": 491.2,
+            "text": " or any of the options"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 491.2,
+            "end": 493.2,
+            "text": " then you can select it like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 493.2,
+            "end": 495.2,
+            "text": " after this we have"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 495.2,
+            "end": 497.2,
+            "text": " text area and select tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 497.2,
+            "end": 499.2,
+            "text": " and let me show you that"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 499.2,
+            "end": 501.2,
+            "text": " so text area and select tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 501.2,
+            "end": 503.2,
+            "text": " works like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 503.2,
+            "end": 505.2,
+            "text": " so I will put text area"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 505.2,
+            "end": 507.2,
+            "text": " so text area input type"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 507.2,
+            "end": 509.2,
+            "text": " is equal to text"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 509.2,
+            "end": 511.2,
+            "text": " but it has rows and column attribute"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 511.2,
+            "end": 513.2,
+            "text": " which helps you to make it smaller"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 513.2,
+            "end": 515.2,
+            "text": " now here you can see the placeholder"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 515.2,
+            "end": 517.2,
+            "text": " which I have put here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 517.2,
+            "end": 519.2,
+            "text": " enter your comment here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 519.2,
+            "end": 521.2,
+            "text": " so I have put this text here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 521.2,
+            "end": 523.2,
+            "text": " ideally we will keep it empty"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 523.2,
+            "end": 525.2,
+            "text": " or we will not give it new line"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 525.2,
+            "end": 527.2,
+            "text": " so I will paste it here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 527.2,
+            "end": 529.2,
+            "text": " and now it will be on the left side"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 529.2,
+            "end": 531.2,
+            "text": " so it is on the left side"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 531.2,
+            "end": 533.2,
+            "text": " so enter your comment here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 533.2,
+            "end": 535.2,
+            "text": " and any user can put their comment here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 535.2,
+            "end": 537.2,
+            "text": " now I have put the text area content"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 537.2,
+            "end": 539.2,
+            "text": " enter your comment here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 539.2,
+            "end": 541.2,
+            "text": " so you will not want to do this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 541.2,
+            "end": 543.2,
+            "text": " you will want to keep text area empty"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 543.2,
+            "end": 545.2,
+            "text": " and you will want to put a label"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 545.2,
+            "end": 547.2,
+            "text": " and you can say label for is equal to comment"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 547.2,
+            "end": 549.2,
+            "text": " and definitely we will put id here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 549.2,
+            "end": 551.2,
+            "text": " whenever we put for"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 551.2,
+            "end": 553.2,
+            "text": " it is in for, the id for which"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 553.2,
+            "end": 555.2,
+            "text": " it is there"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 555.2,
+            "end": 557.2,
+            "text": " now here enter your comment"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 557.2,
+            "end": 559.2,
+            "text": " if I write here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 559.2,
+            "end": 561.2,
+            "text": " what will happen?"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 561.2,
+            "end": 563.2,
+            "text": " enter your comment"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 563.2,
+            "end": 565.2,
+            "text": " now you will say this is not style"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 565.2,
+            "end": 567.2,
+            "text": " so it is not style"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 567.2,
+            "end": 569.2,
+            "text": " because we will style it with CSS"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 569.2,
+            "end": 571.2,
+            "text": " for now I will just put br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 571.2,
+            "end": 573.2,
+            "text": " but I don't recommend br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 573.2,
+            "end": 575.2,
+            "text": " I am telling you again"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 575.2,
+            "end": 577.2,
+            "text": " I don't recommend br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 577.2,
+            "end": 579.2,
+            "text": " because it is difficult"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 579.2,
+            "end": 581.2,
+            "text": " you should know br tag is line break tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 581.2,
+            "end": 583.2,
+            "text": " you might be thinking"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 583.2,
+            "end": 585.2,
+            "text": " what is the problem with br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 585.2,
+            "end": 587.2,
+            "text": " but I will tell you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 587.2,
+            "end": 589.2,
+            "text": " it is something that I don't recommend"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 589.2,
+            "end": 591.2,
+            "text": " it is not like that you don't have to use it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 591.2,
+            "end": 593.2,
+            "text": " but I don't recommend using it all the time"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 593.2,
+            "end": 595.2,
+            "text": " people think it is easy to put br tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 595.2,
+            "end": 597.2,
+            "text": " and add new spaces"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 597.2,
+            "end": 599.2,
+            "text": " I oppose this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 599.2,
+            "end": 601.2,
+            "text": " so I will copy it and show you select tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 601.2,
+            "end": 603.2,
+            "text": " something like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 603.2,
+            "end": 605.2,
+            "text": " and you see here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 605.2,
+            "end": 607.2,
+            "text": " as I put select tag here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 607.2,
+            "end": 609.2,
+            "text": " so in select you get some options"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 609.2,
+            "end": 611.2,
+            "text": " select syntax is like this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 611.2,
+            "end": 613.2,
+            "text": " apple, banana, cherry"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 613.2,
+            "end": 615.2,
+            "text": " you can use any of them"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 615.2,
+            "end": 617.2,
+            "text": " now you see here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 617.2,
+            "end": 619.2,
+            "text": " and here I have"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 619.2,
+            "end": 621.2,
+            "text": " values equal to apple"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 621.2,
+            "end": 623.2,
+            "text": " first I made select tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 623.2,
+            "end": 625.2,
+            "text": " then option value equal to apple"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 625.2,
+            "end": 627.2,
+            "text": " option value equal to banana"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 627.2,
+            "end": 629.2,
+            "text": " option value equal to cherry"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 629.2,
+            "end": 631.2,
+            "text": " when we parse this form data"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 631.2,
+            "end": 633.2,
+            "text": " then I will tell you in javascript"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 633.2,
+            "end": 635.2,
+            "text": " how to send this data to server"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 635.2,
+            "end": 637.2,
+            "text": " so there are many things about form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 637.2,
+            "end": 639.2,
+            "text": " which I will tell you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 639.2,
+            "end": 641.2,
+            "text": " so stay tuned for that"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 641.2,
+            "end": 643.2,
+            "text": " so this was about forms"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 643.2,
+            "end": 645.2,
+            "text": " I had to tell you about many elements"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 645.2,
+            "end": 647.2,
+            "text": " and along with that I have told you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 647.2,
+            "end": 649.2,
+            "text": " about select tag and all"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 649.2,
+            "end": 651.2,
+            "text": " about form"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 651.2,
+            "end": 653.2,
+            "text": " I have told you about action"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 653.2,
+            "end": 655.2,
+            "text": " you can submit it on any page"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 655.2,
+            "end": 657.2,
+            "text": " and where it will handle"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 657.2,
+            "end": 659.2,
+            "text": " so you can give that data here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 659.2,
+            "end": 661.2,
+            "text": " then method is get request or post request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 661.2,
+            "end": 663.2,
+            "text": " I will tell you the difference in these videos"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 663.2,
+            "end": 665.2,
+            "text": " but I have told you in a rough way"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 665.2,
+            "end": 667.2,
+            "text": " that get request is a very simple request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 667.2,
+            "end": 669.2,
+            "text": " post request is used when you have to send"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 669.2,
+            "end": 671.2,
+            "text": " big data to server"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 671.2,
+            "end": 673.2,
+            "text": " so you can send a lot of data in post request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 673.2,
+            "end": 675.2,
+            "text": " we don't even send passwords"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 675.2,
+            "end": 677.2,
+            "text": " in get request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 677.2,
+            "end": 679.2,
+            "text": " we send it through post request"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 679.2,
+            "end": 681.2,
+            "text": " now here I have told you about method"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 681.2,
+            "end": 683.2,
+            "text": " what happens in name"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 683.2,
+            "end": 685.2,
+            "text": " name is equal to username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 685.2,
+            "end": 687.2,
+            "text": " we mark it with name"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 687.2,
+            "end": 689.2,
+            "text": " so server will know which key"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 689.2,
+            "end": 691.2,
+            "text": " corresponding value is"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 691.2,
+            "end": 693.2,
+            "text": " so key value pair will go to server"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 693.2,
+            "end": 695.2,
+            "text": " according to name"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 695.2,
+            "end": 697.2,
+            "text": " so we will see this when we will do server side processing"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 697.2,
+            "end": 699.2,
+            "text": " placeholder means"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 699.2,
+            "end": 701.2,
+            "text": " it will make you click on it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 701.2,
+            "end": 703.2,
+            "text": " here enter your username is placeholder"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 703.2,
+            "end": 705.2,
+            "text": " if I click on it, it will show me"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 705.2,
+            "end": 707.2,
+            "text": " that enter username is not written"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 707.2,
+            "end": 709.2,
+            "text": " but it will show me"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 709.2,
+            "end": 711.2,
+            "text": " that I have to enter username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 711.2,
+            "end": 713.2,
+            "text": " then required means"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 713.2,
+            "end": 715.2,
+            "text": " you have to require it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 715.2,
+            "end": 717.2,
+            "text": " you have to put value"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 717.2,
+            "end": 719.2,
+            "text": " otherwise your form won't be submitted"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 719.2,
+            "end": 721.2,
+            "text": " so we will use this a lot"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 721.2,
+            "end": 723.2,
+            "text": " then we have autofocus"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 723.2,
+            "end": 725.2,
+            "text": " autofocus automatically"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 725.2,
+            "end": 727.2,
+            "text": " focuses cursor"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 727.2,
+            "end": 729.2,
+            "text": " so if you have written autofocus"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 729.2,
+            "end": 731.2,
+            "text": " in input tag"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 731.2,
+            "end": 733.2,
+            "text": " so enter your username"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 733.2,
+            "end": 735.2,
+            "text": " and autofocus"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 735.2,
+            "end": 737.2,
+            "text": " now I will reload it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 737.2,
+            "end": 739.2,
+            "text": " so if I type on it, it will automatically focus on it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 739.2,
+            "end": 741.2,
+            "text": " so autofocus will"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 741.2,
+            "end": 743.2,
+            "text": " type wherever you want"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 743.2,
+            "end": 745.2,
+            "text": " I hope you are getting it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 745.2,
+            "end": 747.2,
+            "text": " now validation attribute"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 747.2,
+            "end": 749.2,
+            "text": " required I have told you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 749.2,
+            "end": 751.2,
+            "text": " you can give pattern"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 751.2,
+            "end": 753.2,
+            "text": " in which you can give regular expression pattern"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 753.2,
+            "end": 755.2,
+            "text": " now don't get confused"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 755.2,
+            "end": 757.2,
+            "text": " I am not good at regular expression"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 757.2,
+            "end": 759.2,
+            "text": " so I am sitting here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 759.2,
+            "end": 761.2,
+            "text": " I will teach you everything"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 761.2,
+            "end": 763.2,
+            "text": " but you have to understand"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 763.2,
+            "end": 765.2,
+            "text": " that we will accept a particular pattern"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 765.2,
+            "end": 767.2,
+            "text": " if we put pattern is equal to this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 767.2,
+            "end": 769.2,
+            "text": " then you can't put anything else"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 769.2,
+            "end": 771.2,
+            "text": " so you should know this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 771.2,
+            "end": 773.2,
+            "text": " so I hope you are enjoying this video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 773.2,
+            "end": 775.2,
+            "text": " and along with that"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 775.2,
+            "end": 777.2,
+            "text": " please write sigma batch op in the comment section"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 777.2,
+            "end": 779.2,
+            "text": " and in the first video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 779.2,
+            "end": 781.2,
+            "text": " please review this course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 781.2,
+            "end": 783.2,
+            "text": " because still many people ask me"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 783.2,
+            "end": 785.2,
+            "text": " should we do this or not"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 785.2,
+            "end": 787.2,
+            "text": " if it's a free course, people don't value it"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 787.2,
+            "end": 789.2,
+            "text": " they say this course is free"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 789.2,
+            "end": 791.2,
+            "text": " so we should watch it or take paid course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 791.2,
+            "end": 793.2,
+            "text": " and I would like to give a note to those"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 793.2,
+            "end": 795.2,
+            "text": " who told me that we took paid course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 795.2,
+            "end": 797.2,
+            "text": " what to do now"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 797.2,
+            "end": 799.2,
+            "text": " we should collect money"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 799.2,
+            "end": 801.2,
+            "text": " or join sigma batch"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 801.2,
+            "end": 803.2,
+            "text": " cut your losses and join sigma batch"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 803.2,
+            "end": 805.2,
+            "text": " because I don't think"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 805.2,
+            "end": 807.2,
+            "text": " I need to tell you the quality of this course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 807.2,
+            "end": 809.2,
+            "text": " so you should come and do this"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 809.2,
+            "end": 811.2,
+            "text": " you will get everything here"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 811.2,
+            "end": 813.2,
+            "text": " I am telling you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 813.2,
+            "end": 815.2,
+            "text": " I was going to sell this course for 10,000"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 815.2,
+            "end": 817.2,
+            "text": " yes that was the amount"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 817.2,
+            "end": 819.2,
+            "text": " which we fixed"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 819.2,
+            "end": 821.2,
+            "text": " I was going to sell this course for 10,000"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 821.2,
+            "end": 823.2,
+            "text": " and I think there is nothing wrong in selling any course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 823.2,
+            "end": 825.2,
+            "text": " if anyone is selling, there is nothing wrong in selling any course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 825.2,
+            "end": 827.2,
+            "text": " but the thing is"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 827.2,
+            "end": 829.2,
+            "text": " if you have bought any other course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 829.2,
+            "end": 831.2,
+            "text": " and you still feel sigma is a great course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 831.2,
+            "end": 833.2,
+            "text": " then you should join"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 833.2,
+            "end": 835.2,
+            "text": " cut your losses and join"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 835.2,
+            "end": 837.2,
+            "text": " because if you make a career"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 837.2,
+            "end": 839.2,
+            "text": " then you won't need any of these things"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 839.2,
+            "end": 841.2,
+            "text": " if you will look back in the video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 841.2,
+            "end": 843.2,
+            "text": " then you will also say that we took paid course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 843.2,
+            "end": 845.2,
+            "text": " and then we took a pre course"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 845.2,
+            "end": 847.2,
+            "text": " and if you make a career"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 847.2,
+            "end": 849.2,
+            "text": " then all these things won't matter in the future"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 849.2,
+            "end": 851.2,
+            "text": " so do what is right for you"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 851.2,
+            "end": 853.2,
+            "text": " and do your work"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 853.2,
+            "end": 855.2,
+            "text": " I hope you are understanding things"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 855.2,
+            "end": 857.2,
+            "text": " so like the video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 857.2,
+            "end": 859.2,
+            "text": " access the playlist"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 859.2,
+            "end": 861.2,
+            "text": " subscribe the channel"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 861.2,
+            "end": 863.2,
+            "text": " and in the comment section below"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 863.2,
+            "end": 865.2,
+            "text": " write sigma batch op"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 865.2,
+            "end": 867.2,
+            "text": " that's it for this video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 867.2,
+            "end": 869.2,
+            "text": " thank you guys for watching this video"
+        },
+        {
+            "Video": "7_Forms and input tags in HTML .mp3",
+            "start": 869.2,
+            "end": 871.2,
+            "text": " and I will see you next time"
+        }
+    ],
+    "text": " In this video, we will know what are the forms and what is the input tag in the form Using the form is an important element of websites because you submit data from client to server through the form These are the forms which you see on contact pages, google forms or enquiry forms The details of the flight or railway ticket, date and time, where to go and where to go are submitted through the HTML forms In the last video, very few people liked it I will request you to like this video with high energy so that we can maintain high energy throughout the course So let's go to the computer screen and see the forms, input tags and some best practices Let's roll the intro So guys, I have come to my computer screen and now see I am going to make a folder here which I am going to name video6 because this is the 6th video, I will click on shift right and open with code I have already told you all about this and now I am going to make index.html and I will put an exclamation mark in it I will do view word wrap, screen cast mode and I will write forms here let's learn it so I have set the title of this forms page and by setting the title, we can see the actual title on our page and I want to tell you about a very important setting some of you guys have also asked me in the comments if we have to click so many times, can we do something? yes, you can click on gear, then on settings and after that, you can simply write live preview and we can actually set it so that whenever we click on it, it will open on the external browser so now I will close everything and as soon as I click on it, it will open on the external browser and I will come to my browser and I am sure you can access the sigma web development codes playlist by clicking on star or bookmark but I want to tell you guys that as soon as we click on it, it will open so if you want to do this, then do it but sometimes you will want to do side by side view and when you want to do that, you can do it by using HTML CSS and working on design so whenever you are working on design, you will definitely want to see live previews which is why this extension was made and this live preview was made different from the live server so that you can see the previews on the side now what we will do here is we will go to forms you know the name of the form which is the railway form we fill it and our reservation is done along with that, we fill the form of IIT JEE, NEET we fill the form of any exam so that our data can reach those who want it so this is the form HTML is a form tag as soon as you type the form, you will type enter so now the first question is what is the action of your form get or post let me tell you a quick difference between get request and post request we will see this later get request is a very simple request and post request is used in most of the cases when we have to give a lot of data like whenever our form is posted we will use post request in most of the cases and what is get request? it is a very simple request that we just have to tell the server something or we have to hit the server with a request that's it but if you still don't understand this that should be fine because we will do this in detail later so form action is equal to post now I can show you some input tags I will tell you what are the input tags what elements will be present in your form like you can put date you can put name in the form you can tell your phone number you can tell your age it can be just a number you can put such elements in the form so I want to tell you that the input tag that you put in the form and there is a label tag which is used to label the input so what I will do here the simplest input tag is type is equal to text so I will put type is equal to text and if I zoom out and if I zoom out so here input type is equal to text name is equal to username placeholder is enter username so you can say enter your username and the user you have to enter his username I will write an h1 and I will write form to apply for ta for sigma web dev ta sigma web development course ta suppose we are hiring teaching assistants for sigma web development course so we can write something like this by the way I have put subtitles if you haven't access the playlist and along with that I will show you one more thing these subtitles are very funny and give your village land to me so if someone is watching this or someone who doesn't know Hindi he will say what happened till here and give your village land to me so you can see here I have put h1 here which is our main heading and we use label tag so for is equal to I will write his id for example his id username and for is equal to I will put his id now what is this id I will tell you this later for now you just need to understand that this is unique identifier and to identify this element like your Aadhar number is not of any other so this is the id username so I have written label for is equal to username and input and you can see here the label will come so I have not put anything in the label so I will put enter your username and you can see as soon as I put this you will see enter your username and after that you can enter your username along with that you can enter your expertise anything you want like I want to know your gender so I can do something like this enter your gender and as soon as I do this I can ask you what is this now what happens is we can wrap this in div div is our block element and I have not told you what are inline and block elements in this course but I will tell you in the next videos so for now you just need to understand that I am putting this in div so as soon as I put this in div it will come in new space so you don't prefer br tag and you will get to know why we don't want to bloat our html with br tag you will get to know this in the next videos now you can see enter your username male or female now as soon as I click on female this radio button is selected why is this happening because the label I have put for is equal to female and here I have put id female and along with that I have put their names I have also put this input tag and name is equal to gender and also input radio tag and as soon as we have type is equal to radio it means this is radio button and if we have same name then only one of them can be selected so if I select this then only this and if I select this then only this now let me show you one thing if I mess up the id in the label and here also in the form let's say I don't mess up the first one but I mess up the second one so I am not selecting I am clicking on male and it is selected so to select female I have to click here so what I have to do is always put for is equal to the id of the input tag so you can see here I have put label for is equal to female along with that we have an input tag which is type is equal to checkbox now if I put type is equal to checkbox I will put this in div and right click and format the document as soon as I do this it will be very good so its formatting and indents will be very good now here you can see subscribe to newsletter and radio button and checkbox you can check different checkbox here if you want male or female or any of the options then you can select it like this after this we have text area and select tag and let me show you that so text area and select tag works like this so I will put text area so text area input type is equal to text but it has rows and column attribute which helps you to make it smaller now here you can see the placeholder which I have put here enter your comment here so I have put this text here ideally we will keep it empty or we will not give it new line so I will paste it here and now it will be on the left side so it is on the left side so enter your comment here and any user can put their comment here now I have put the text area content enter your comment here so you will not want to do this you will want to keep text area empty and you will want to put a label and you can say label for is equal to comment and definitely we will put id here whenever we put for it is in for, the id for which it is there now here enter your comment if I write here what will happen? enter your comment now you will say this is not style so it is not style because we will style it with CSS for now I will just put br tag but I don't recommend br tag I am telling you again I don't recommend br tag because it is difficult you should know br tag is line break tag you might be thinking what is the problem with br tag but I will tell you it is something that I don't recommend it is not like that you don't have to use it but I don't recommend using it all the time people think it is easy to put br tag and add new spaces I oppose this so I will copy it and show you select tag something like this and you see here as I put select tag here so in select you get some options select syntax is like this apple, banana, cherry you can use any of them now you see here and here I have values equal to apple first I made select tag then option value equal to apple option value equal to banana option value equal to cherry when we parse this form data then I will tell you in javascript how to send this data to server so there are many things about form which I will tell you so stay tuned for that so this was about forms I had to tell you about many elements and along with that I have told you about select tag and all about form I have told you about action you can submit it on any page and where it will handle so you can give that data here then method is get request or post request I will tell you the difference in these videos but I have told you in a rough way that get request is a very simple request post request is used when you have to send big data to server so you can send a lot of data in post request we don't even send passwords in get request we send it through post request now here I have told you about method what happens in name name is equal to username we mark it with name so server will know which key corresponding value is so key value pair will go to server according to name so we will see this when we will do server side processing placeholder means it will make you click on it here enter your username is placeholder if I click on it, it will show me that enter username is not written but it will show me that I have to enter username then required means you have to require it you have to put value otherwise your form won't be submitted so we will use this a lot then we have autofocus autofocus automatically focuses cursor so if you have written autofocus in input tag so enter your username and autofocus now I will reload it so if I type on it, it will automatically focus on it so autofocus will type wherever you want I hope you are getting it now validation attribute required I have told you you can give pattern in which you can give regular expression pattern now don't get confused I am not good at regular expression so I am sitting here I will teach you everything but you have to understand that we will accept a particular pattern if we put pattern is equal to this then you can't put anything else so you should know this so I hope you are enjoying this video and along with that please write sigma batch op in the comment section and in the first video please review this course because still many people ask me should we do this or not if it's a free course, people don't value it they say this course is free so we should watch it or take paid course and I would like to give a note to those who told me that we took paid course what to do now we should collect money or join sigma batch cut your losses and join sigma batch because I don't think I need to tell you the quality of this course so you should come and do this you will get everything here I am telling you I was going to sell this course for 10,000 yes that was the amount which we fixed I was going to sell this course for 10,000 and I think there is nothing wrong in selling any course if anyone is selling, there is nothing wrong in selling any course but the thing is if you have bought any other course and you still feel sigma is a great course then you should join cut your losses and join because if you make a career then you won't need any of these things if you will look back in the video then you will also say that we took paid course and then we took a pre course and if you make a career then all these things won't matter in the future so do what is right for you and do your work I hope you are understanding things so like the video access the playlist subscribe the channel and in the comment section below write sigma batch op that's it for this video thank you guys for watching this video and I will see you next time"
+}

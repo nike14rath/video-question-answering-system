@@ -1,0 +1,4781 @@
+{
+    "chunks": [
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 0.0,
+            "end": 2.7,
+            "text": " In the last video, you guys gave me a lot of love."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 2.7,
+            "end": 5.1000000000000005,
+            "text": " It's my pleasure to keep this course free."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 5.1000000000000005,
+            "end": 6.7,
+            "text": " There is a like for this free course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 6.7,
+            "end": 8.4,
+            "text": " You know, when I started web development,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 8.4,
+            "end": 10.8,
+            "text": " there was no comprehensive course of this quality."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 10.8,
+            "end": 13.5,
+            "text": " Forget about free or paid, there was no such course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 13.5,
+            "end": 17.7,
+            "text": " So I can understand that the free course is very important for some people."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 17.7,
+            "end": 20.1,
+            "text": " And trust me, I live up to the expectations."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 20.1,
+            "end": 21.7,
+            "text": " With that said, like this video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 21.7,
+            "end": 24.5,
+            "text": " because we are going to make our first website in this video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 24.5,
+            "end": 29.0,
+            "text": " And in this video, I am going to order the iPhone 15 Pro Max."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 29.0,
+            "end": 31.9,
+            "text": " Why, how, what will happen, we'll see in the next video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 31.9,
+            "end": 35.3,
+            "text": " For some of you, this will be the first website of your life."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 35.3,
+            "end": 36.6,
+            "text": " So it's going to be fun."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 36.6,
+            "end": 38.0,
+            "text": " You guys are excited, right?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 38.0,
+            "end": 39.4,
+            "text": " Write in the comments, I am excited."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 39.4,
+            "end": 43.5,
+            "text": " And whatever you write in the comments, I will give heart to all those comments."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 43.5,
+            "end": 47.900000000000006,
+            "text": " In this video, we will learn to link an HTML website with CSS and JavaScript."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 47.900000000000006,
+            "end": 51.400000000000006,
+            "text": " Along with that, in this video, I am going to give you notes, cheat sheets,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 51.400000000000006,
+            "end": 53.2,
+            "text": " and many other resources."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 53.2,
+            "end": 56.8,
+            "text": " I will tell you some such techniques that I have learned in years."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 56.8,
+            "end": 60.9,
+            "text": " And we will make your web development speed 10x."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 60.9,
+            "end": 64.5,
+            "text": " In this video, we will also see how to make our VS Code awesome."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 64.5,
+            "end": 67.5,
+            "text": " That your VS Code screen will look like a killer."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 67.5,
+            "end": 72.0,
+            "text": " In this video, I will also tell you how to earn money from web development."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 72.0,
+            "end": 73.9,
+            "text": " So let's start with full energy."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 73.9,
+            "end": 75.2,
+            "text": " Let's roll the intro."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 75.2,
+            "end": 84.8,
+            "text": " Music"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 84.8,
+            "end": 87.2,
+            "text": " Alright guys, so we have come to our computer screen."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 87.2,
+            "end": 90.8,
+            "text": " Before moving forward in the video, I would like to tell you all to access this playlist."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 90.8,
+            "end": 93.60000000000001,
+            "text": " Secondly, we are very close to 5 million subscribers."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 93.60000000000001,
+            "end": 96.5,
+            "text": " So if you haven't hit the subscribe button, then do it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 96.5,
+            "end": 101.80000000000001,
+            "text": " In today's video, we are going to make our first website, as I have already told you."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 101.89999999999999,
+            "end": 106.0,
+            "text": " The first thing we will do is to customize our VS Code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 106.0,
+            "end": 110.89999999999999,
+            "text": " So this is the folder in which we started our web development series."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 110.89999999999999,
+            "end": 114.2,
+            "text": " Now I want to give you the source code of this web development series."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 114.2,
+            "end": 116.0,
+            "text": " So I will configure git here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 116.0,
+            "end": 118.9,
+            "text": " For you, it is not necessary to know about git."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 118.9,
+            "end": 122.4,
+            "text": " But I will fire the GitHub desktop here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 122.4,
+            "end": 127.1,
+            "text": " And what I will do here is that I will add a new repository."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 127.1,
+            "end": 131.0,
+            "text": " I will click on add, create new repository."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 131.0,
+            "end": 134.5,
+            "text": " I will name it sigma web dev course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 134.5,
+            "end": 136.5,
+            "text": " And this is our repository."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 136.5,
+            "end": 138.2,
+            "text": " So I will select this folder."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 138.2,
+            "end": 140.6,
+            "text": " I will initialize this repository with readme."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 140.6,
+            "end": 143.2,
+            "text": " And I will write the source code for sigma web development course here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 143.2,
+            "end": 144.7,
+            "text": " I will click on create repository."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 144.7,
+            "end": 148.9,
+            "text": " By doing this, a repository will be created here, which is called sigma web dev course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 148.9,
+            "end": 153.3,
+            "text": " I will add all the things that were relevant to the first video here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 153.3,
+            "end": 155.8,
+            "text": " So these were the files that were relevant to the first video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 155.8,
+            "end": 157.6,
+            "text": " So I will name it video1."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 157.6,
+            "end": 159.0,
+            "text": " Right click, new folder."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 159.0,
+            "end": 160.9,
+            "text": " I will make a video1 here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 160.9,
+            "end": 163.6,
+            "text": " And I will move these files to video1 folder."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 163.6,
+            "end": 165.6,
+            "text": " I am not pushing all the videos on git."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 165.6,
+            "end": 166.6,
+            "text": " Because this is a sample video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 166.6,
+            "end": 168.1,
+            "text": " You can use your sample videos."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 168.1,
+            "end": 171.3,
+            "text": " So now I will keep updating the source code here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 171.3,
+            "end": 173.3,
+            "text": " And I will keep pushing it on git."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 173.3,
+            "end": 175.3,
+            "text": " Now how do I push it on git?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 175.3,
+            "end": 177.3,
+            "text": " You don't need to learn this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 177.3,
+            "end": 178.6,
+            "text": " But this procedure is very simple."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 178.6,
+            "end": 179.5,
+            "text": " Why do I use git?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 179.5,
+            "end": 183.5,
+            "text": " I would like to tell you that git is used by web developers."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 183.5,
+            "end": 185.5,
+            "text": " Or by general coders."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 185.5,
+            "end": 189.9,
+            "text": " When they have to collaborate their code with other people."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 189.9,
+            "end": 192.6,
+            "text": " So what will happen is that you will work with many programmers."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 192.6,
+            "end": 196.6,
+            "text": " And those programmers will collaborate with your source code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 196.6,
+            "end": 200.1,
+            "text": " And to do this kind of collaboration, they will push some code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 200.1,
+            "end": 201.8,
+            "text": " You will also push some code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 201.8,
+            "end": 203.8,
+            "text": " Maybe one person is editing one file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 203.8,
+            "end": 205.3,
+            "text": " Another person is editing another file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 205.3,
+            "end": 207.1,
+            "text": " So here, git hub is used."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 207.1,
+            "end": 208.6,
+            "text": " And what is git hub desktop?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 208.6,
+            "end": 212.6,
+            "text": " It is a utility to use git."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 212.6,
+            "end": 215.8,
+            "text": " The difference between git and git hub is that git is open source."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 215.8,
+            "end": 218.0,
+            "text": " But git hub is a Microsoft owned company."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 218.0,
+            "end": 223.2,
+            "text": " Which uses git to help you to host repositories on your web interface."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 223.2,
+            "end": 226.2,
+            "text": " I will tell you more about git in the upcoming videos."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 226.2,
+            "end": 229.7,
+            "text": " But I am pushing this repository on my code with hari GitHub account."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 229.7,
+            "end": 232.7,
+            "text": " So you will get the link of repository in the description."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 232.7,
+            "end": 236.7,
+            "text": " So as soon as I give you the links, you will get the whole code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 236.7,
+            "end": 238.2,
+            "text": " And I will talk about this later."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 238.2,
+            "end": 240.7,
+            "text": " I am making this video as a course impact."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 240.7,
+            "end": 243.7,
+            "text": " So that absolute beginners can follow this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 243.7,
+            "end": 245.7,
+            "text": " So as soon as I click on the published repository,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 245.89999999999998,
+            "end": 247.89999999999998,
+            "text": " I will get the link of this code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 247.89999999999998,
+            "end": 249.89999999999998,
+            "text": " This folder will sync with my GitHub account."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 249.89999999999998,
+            "end": 251.89999999999998,
+            "text": " So all the code that I am going to upload here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 251.89999999999998,
+            "end": 254.39999999999998,
+            "text": " will go to my GitHub account and will keep on syncing."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 254.39999999999998,
+            "end": 256.4,
+            "text": " All the changes will be there."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 256.4,
+            "end": 259.4,
+            "text": " If someone has made any changes there, I can pull them here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 259.4,
+            "end": 262.4,
+            "text": " I can click on it and then I can pull it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 262.4,
+            "end": 263.4,
+            "text": " I will teach you all this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 263.4,
+            "end": 265.4,
+            "text": " I will dedicate the whole video to git."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 265.4,
+            "end": 266.4,
+            "text": " Don't worry."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 266.4,
+            "end": 268.4,
+            "text": " I did this so that I can give you the code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 268.4,
+            "end": 270.4,
+            "text": " Now I will make a folder called video2."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 270.4,
+            "end": 272.4,
+            "text": " And I will go inside this folder."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 272.4,
+            "end": 275.4,
+            "text": " I will press shift and right click and open with VS code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 275.4,
+            "end": 276.59999999999997,
+            "text": " So here it is open with code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 276.59999999999997,
+            "end": 277.59999999999997,
+            "text": " You will get this option."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 277.59999999999997,
+            "end": 280.59999999999997,
+            "text": " If you have installed VS code as I have said."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 280.59999999999997,
+            "end": 283.59999999999997,
+            "text": " If you have made any changes and you have not checked"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 283.59999999999997,
+            "end": 285.09999999999997,
+            "text": " those check boxes that I have shown you,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 285.09999999999997,
+            "end": 286.09999999999997,
+            "text": " then you may have a problem."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 286.09999999999997,
+            "end": 287.59999999999997,
+            "text": " So we will no this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 287.59999999999997,
+            "end": 289.09999999999997,
+            "text": " We will dismiss the notification."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 289.09999999999997,
+            "end": 291.09999999999997,
+            "text": " Now whatever file I will make here,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 291.09999999999997,
+            "end": 293.59999999999997,
+            "text": " like I will make index.html here,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 293.59999999999997,
+            "end": 295.59999999999997,
+            "text": " that file will be made here too."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 295.59999999999997,
+            "end": 297.09999999999997,
+            "text": " So everyone knows about this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 297.09999999999997,
+            "end": 299.09999999999997,
+            "text": " I know that many intermediate people are saying that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 299.09999999999997,
+            "end": 301.59999999999997,
+            "text": " we already know all these things."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 301.59999999999997,
+            "end": 303.59999999999997,
+            "text": " But I am making this course so that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 303.59999999999997,
+            "end": 305.09999999999997,
+            "text": " all beginners can follow along."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 305.3,
+            "end": 306.8,
+            "text": " So I will make 3 files here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 306.8,
+            "end": 308.8,
+            "text": " One I have made index.html."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 308.8,
+            "end": 311.8,
+            "text": " The second file I am going to make is style.css."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 311.8,
+            "end": 314.8,
+            "text": " And the third file I am going to make is script.js."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 314.8,
+            "end": 316.8,
+            "text": " And the name of these files can be anything."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 316.8,
+            "end": 319.8,
+            "text": " But I just want to keep these files self-explanatory."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 319.8,
+            "end": 322.3,
+            "text": " So that we can see their names and know what they are doing."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 322.3,
+            "end": 325.8,
+            "text": " index.html, html file, script.js, javascript file,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 325.8,
+            "end": 328.3,
+            "text": " style.css, a style sheet."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 328.3,
+            "end": 330.3,
+            "text": " So I have made these 3 files here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 330.3,
+            "end": 332.8,
+            "text": " I will go to index.html and put an exclamation mark."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 332.8,
+            "end": 335.0,
+            "text": " As soon as I put an exclamation mark,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 335.0,
+            "end": 337.5,
+            "text": " you can see that this code has come here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 337.5,
+            "end": 340.5,
+            "text": " I will click on view word wrap so that you can see this code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 340.5,
+            "end": 343.5,
+            "text": " The horizontal scroll bar from word wrap is removed."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 343.5,
+            "end": 345.0,
+            "text": " I have checked the word wrap here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " So here you can see that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " we will understand this code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " But for now, you can understand that this code,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 351.0,
+            "end": 352.5,
+            "text": " html code,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 352.5,
+            "end": 355.5,
+            "text": " we use it to make a website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 355.5,
+            "end": 358.5,
+            "text": " Now come to the extensions tab of VS Code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 358.5,
+            "end": 362.5,
+            "text": " Extensions are used to enhance the functionality of VS Code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 363.2,
+            "end": 367.2,
+            "text": " We use extensions to make VS Code better."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 367.2,
+            "end": 372.2,
+            "text": " The extensions of VS Code help us to write code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 372.2,
+            "end": 375.2,
+            "text": " So which extension we will use?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 375.2,
+            "end": 378.2,
+            "text": " First of all, I will put some extensions"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 378.2,
+            "end": 381.2,
+            "text": " which will make our VS Code very clear."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 381.2,
+            "end": 384.2,
+            "text": " If your friends see this, they will say that it is a hacker."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 384.2,
+            "end": 386.2,
+            "text": " So what I will do now is"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 386.2,
+            "end": 388.2,
+            "text": " VS Code Icons."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 388.2,
+            "end": 390.2,
+            "text": " VS Code Icons is an extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 390.2,
+            "end": 392.2,
+            "text": " which I will install."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 392.2,
+            "end": 394.2,
+            "text": " You will get to know that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 394.2,
+            "end": 396.2,
+            "text": " whatever file you are looking at,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 396.2,
+            "end": 397.2,
+            "text": " its icon has come."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 397.2,
+            "end": 399.2,
+            "text": " This icon was not coming earlier."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 399.2,
+            "end": 402.2,
+            "text": " You can see all the icons here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 402.2,
+            "end": 404.2,
+            "text": " Thanks for installing VS Code Icons."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 404.2,
+            "end": 406.2,
+            "text": " I will activate it here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 406.2,
+            "end": 408.2,
+            "text": " And you can see that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 408.2,
+            "end": 410.2,
+            "text": " our icons are looking good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 410.2,
+            "end": 412.2,
+            "text": " In the coming time, if we make a folder,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 412.2,
+            "end": 414.2,
+            "text": " then we will get this kind of icon."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 414.2,
+            "end": 416.2,
+            "text": " So these icons look good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 416.2,
+            "end": 418.2,
+            "text": " We will come to the extensions tab again."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 418.2,
+            "end": 420.2,
+            "text": " And here there are many good themes which you can use."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 420.2,
+            "end": 422.2,
+            "text": " There are some themes."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 422.2,
+            "end": 424.2,
+            "text": " Jellyfish theme, GitHub theme."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 424.2,
+            "end": 426.2,
+            "text": " There are many themes which you can use."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 426.2,
+            "end": 429.2,
+            "text": " But I can only use one theme at a time."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 429.2,
+            "end": 431.2,
+            "text": " This is the default VS Code theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 431.2,
+            "end": 434.2,
+            "text": " which shows you VS Code in this way."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 434.2,
+            "end": 436.2,
+            "text": " Now if I change my theme,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 436.2,
+            "end": 439.2,
+            "text": " then my VS Code will look different."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 439.2,
+            "end": 441.2,
+            "text": " I will show you which one I will prefer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 441.2,
+            "end": 443.2,
+            "text": " when it comes to themes."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 443.2,
+            "end": 445.2,
+            "text": " First of all, I will show you GitHub theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 445.2,
+            "end": 447.2,
+            "text": " here how it looks."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 447.2,
+            "end": 449.2,
+            "text": " So GitHub theme is an official theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 449.2,
+            "end": 451.2,
+            "text": " which is provided by GitHub."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 451.2,
+            "end": 453.2,
+            "text": " Here you can see GitHub dark,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 453.2,
+            "end": 455.2,
+            "text": " GitHub light,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 455.2,
+            "end": 457.2,
+            "text": " GitHub dimmed,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 457.2,
+            "end": 459.2,
+            "text": " GitHub colorblind."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 459.2,
+            "end": 461.2,
+            "text": " I like this one better"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 461.2,
+            "end": 463.2,
+            "text": " because the colors in it are..."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 463.2,
+            "end": 465.2,
+            "text": " Sorry, I don't like this one."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 465.2,
+            "end": 467.2,
+            "text": " I will choose GitHub dark"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 467.2,
+            "end": 469.2,
+            "text": " because the colors are highlighted differently."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 469.2,
+            "end": 471.2,
+            "text": " Another theme which is preferred is Jellyfish."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 471.2,
+            "end": 473.2,
+            "text": " And many people like the Jellyfish theme."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 473.2,
+            "end": 475.2,
+            "text": " If I install it,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 475.2,
+            "end": 477.2,
+            "text": " then the VS Code will look like this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 477.2,
+            "end": 479.2,
+            "text": " Jellyfish will look like this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 479.2,
+            "end": 481.2,
+            "text": " Another theme is material theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 481.2,
+            "end": 483.2,
+            "text": " which is popular."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 483.2,
+            "end": 485.2,
+            "text": " If I use material theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 485.2,
+            "end": 487.2,
+            "text": " and we have to install material theme"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 487.2,
+            "end": 489.2,
+            "text": " with material theme icons."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 489.2,
+            "end": 491.2,
+            "text": " If you have installed material theme icons"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 491.2,
+            "end": 493.2,
+            "text": " then you can change the icons"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 493.2,
+            "end": 495.2,
+            "text": " to control which extension you want."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 495.2,
+            "end": 497.2,
+            "text": " And here we have installed many extensions."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 497.2,
+            "end": 499.2,
+            "text": " I will also tell you how to delete extensions."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 499.2,
+            "end": 501.2,
+            "text": " Here I am showing the VS Code material theme icons"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 501.2,
+            "end": 503.2,
+            "text": " in this way."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 503.2,
+            "end": 505.2,
+            "text": " You can use VS Code icons."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 505.2,
+            "end": 507.2,
+            "text": " If I want to delete material theme icons"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 507.2,
+            "end": 509.2,
+            "text": " then I will simply"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 509.2,
+            "end": 511.2,
+            "text": " remove this icon."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 511.2,
+            "end": 513.2,
+            "text": " And all the extensions"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 513.2,
+            "end": 515.2,
+            "text": " that are visible here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 515.2,
+            "end": 517.2,
+            "text": " like this material theme icon"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 517.2,
+            "end": 519.2,
+            "text": " and I want to use this one"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 519.2,
+            "end": 521.2,
+            "text": " then I will select it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 521.2,
+            "end": 523.2,
+            "text": " If I want, I can uninstall it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 523.2,
+            "end": 525.2,
+            "text": " And sometimes when we do anything uninstalling"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 525.2,
+            "end": 527.2,
+            "text": " then we need to click on reload required."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 527.2,
+            "end": 529.2,
+            "text": " And when I click on reload required"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 529.2,
+            "end": 531.2,
+            "text": " then my VS Code will be reloaded."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 531.2,
+            "end": 533.2,
+            "text": " You can customize it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 533.2,
+            "end": 535.2,
+            "text": " I will select VS Code icons"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 535.2,
+            "end": 537.2,
+            "text": " so that my icons look like this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 537.2,
+            "end": 539.2,
+            "text": " I like this a little."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 539.2,
+            "end": 541.2,
+            "text": " I also like Jellyfish theme."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 541.2,
+            "end": 543.2,
+            "text": " After this there is another extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 543.2,
+            "end": 545.2,
+            "text": " which is called Prettier."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 545.2,
+            "end": 547.2,
+            "text": " I will not install it but"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 547.2,
+            "end": 549.2,
+            "text": " I just want to tell you."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 549.2,
+            "end": 551.2,
+            "text": " There is another extension called ES7"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 551.2,
+            "end": 553.2,
+            "text": " and we will react to it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 553.2,
+            "end": 555.2,
+            "text": " Sorry for the spoilers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 555.2,
+            "end": 557.2,
+            "text": " but we are going to react to it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 557.2,
+            "end": 559.2,
+            "text": " So here we have ES7 plus React Redux"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 559.2,
+            "end": 561.2,
+            "text": " and this is the extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 561.2,
+            "end": 563.2,
+            "text": " which gives you the react snippets."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 563.2,
+            "end": 565.2,
+            "text": " We will use it only when we react."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 565.2,
+            "end": 567.2,
+            "text": " We will not install it for now."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 567.2,
+            "end": 569.2,
+            "text": " But the most important extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 569.2,
+            "end": 571.2,
+            "text": " is called Live Preview."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 571.2,
+            "end": 573.2,
+            "text": " We will install this extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 573.2,
+            "end": 575.2,
+            "text": " because it is a very useful extension."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 575.2,
+            "end": 577.2,
+            "text": " All the extensions I have told you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 577.2,
+            "end": 579.2,
+            "text": " mostly help you in"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 579.2,
+            "end": 581.2,
+            "text": " changing the look and feel of VS Code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 581.2,
+            "end": 583.2,
+            "text": " But the extension that I am telling you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 583.2,
+            "end": 585.2,
+            "text": " Live Preview"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 585.2,
+            "end": 587.2,
+            "text": " will be used in actual."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 587.2,
+            "end": 589.2,
+            "text": " So here we have HTML, CSS and JavaScript files."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 589.2,
+            "end": 591.2,
+            "text": " So here are our HTML, CSS and JavaScript files."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 591.2,
+            "end": 593.2,
+            "text": " This is the HTML file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 593.2,
+            "end": 595.2,
+            "text": " This is some code which"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 595.2,
+            "end": 597.2,
+            "text": " tells the website how"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 597.2,
+            "end": 599.2,
+            "text": " to look."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 599.2,
+            "end": 601.2,
+            "text": " So here I am telling you that the title should be"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 601.2,
+            "end": 603.2,
+            "text": " document. I will write here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 603.2,
+            "end": 605.2,
+            "text": " Harry's first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 605.2,
+            "end": 607.2,
+            "text": " Harry's first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 607.2,
+            "end": 609.2,
+            "text": " Harry's first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 609.2,
+            "end": 611.2,
+            "text": " Harry's first website will be a lie."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 611.2,
+            "end": 613.2,
+            "text": " Your first website. You have to write your name in it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 613.2,
+            "end": 615.2,
+            "text": " Whatever your name is."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 615.2,
+            "end": 617.2,
+            "text": " And here if I write in body"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 617.2,
+            "end": 619.2,
+            "text": " Hey this is my first"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 619.2,
+            "end": 621.2,
+            "text": " website. And everyone write"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 621.2,
+            "end": 623.2,
+            "text": " congratulations in the comment."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 623.2,
+            "end": 625.2,
+            "text": " Everyone who has this website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 625.2,
+            "end": 627.2,
+            "text": " Congratulations for my first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 627.2,
+            "end": 629.2,
+            "text": " And congratulate each other."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 629.2,
+            "end": 631.2,
+            "text": " Make the atmosphere in the comment section."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 631.2,
+            "end": 633.2,
+            "text": " I also come in the comment section."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 633.2,
+            "end": 635.2,
+            "text": " And I give my heart to everyone."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 635.2,
+            "end": 637.2,
+            "text": " Now,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 637.2,
+            "end": 639.2,
+            "text": " let me see how to do this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 639.2,
+            "end": 641.2,
+            "text": " The biggest question is, there are two ways to see this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 641.2,
+            "end": 643.2,
+            "text": " The two ways to see is to install the extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 643.2,
+            "end": 645.2,
+            "text": " Live Preview."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 645.2,
+            "end": 647.2,
+            "text": " Before Live server was also working but"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 647.2,
+            "end": 649.2,
+            "text": " Microsoft released this Live Preview."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 649.2,
+            "end": 651.2,
+            "text": " So I will recommend this extension."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 651.2,
+            "end": 653.2,
+            "text": " This is also working."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 653.2,
+            "end": 655.2,
+            "text": " But I am not going to run Live server."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 655.2,
+            "end": 657.2,
+            "text": " I am going to use Live Preview."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 657.2,
+            "end": 659.2,
+            "text": " After installing Live Preview, you see this icon."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 659.2,
+            "end": 661.2,
+            "text": " You will click this and your website will look like this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 661.2,
+            "end": 663.2,
+            "text": " Now you will say that I want to see this"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 663.2,
+            "end": 665.2,
+            "text": " website in the browser."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 665.2,
+            "end": 667.2,
+            "text": " Because my website will be in the browser."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 667.2,
+            "end": 669.2,
+            "text": " So if you want to see this in the browser,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 669.2,
+            "end": 671.2,
+            "text": " click here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 671.2,
+            "end": 673.2,
+            "text": " Open in browser and it will open in the browser."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 673.2,
+            "end": 675.2,
+            "text": " And let me tell you something interesting."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 675.2,
+            "end": 677.2,
+            "text": " You can close this and write here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 677.2,
+            "end": 679.2,
+            "text": " that Harry's"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 679.2,
+            "end": 681.2,
+            "text": " course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 681.2,
+            "end": 683.2,
+            "text": " Suppose you wrote it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 683.2,
+            "end": 685.2,
+            "text": " I am praising my own course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 685.2,
+            "end": 687.2,
+            "text": " But yes, Harry's course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 687.2,
+            "end": 689.2,
+            "text": " I wrote it here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 689.2,
+            "end": 691.2,
+            "text": " And you noticed one thing here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 691.2,
+            "end": 693.2,
+            "text": " I didn't reload this website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 693.2,
+            "end": 695.2,
+            "text": " But even after that,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 695.2,
+            "end": 697.2,
+            "text": " it updated this content."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 697.2,
+            "end": 699.2,
+            "text": " Which I wrote in this VS Code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 699.2,
+            "end": 701.2,
+            "text": " Which means whatever I write here,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 701.2,
+            "end": 703.2,
+            "text": " without reloading,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 703.2,
+            "end": 705.2,
+            "text": " it will be updated."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 705.2,
+            "end": 707.2,
+            "text": " Will it be updated or not?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 707.2,
+            "end": 709.2,
+            "text": " Clap your hands."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 709.2,
+            "end": 711.2,
+            "text": " It will be updated."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 711.2,
+            "end": 713.2,
+            "text": " And here,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 713.2,
+            "end": 715.2,
+            "text": " this is my first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 715.2,
+            "end": 717.2,
+            "text": " Harry's course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 717.2,
+            "end": 719.2,
+            "text": " Let me write here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 719.2,
+            "end": 721.2,
+            "text": " Sigma Harry's course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 721.2,
+            "end": 723.2,
+            "text": " Sigma Harry's course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 723.2,
+            "end": 725.2,
+            "text": " So here you have seen"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 725.2,
+            "end": 727.2,
+            "text": " how this"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 727.2,
+            "end": 729.2,
+            "text": " extension will help us."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 729.2,
+            "end": 731.2,
+            "text": " Even if you reload it, it won't matter"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 731.2,
+            "end": 733.2,
+            "text": " because it is being reloaded live."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 733.2,
+            "end": 735.2,
+            "text": " There are two things. Sometimes we want"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 735.2,
+            "end": 737.2,
+            "text": " our page to be previewed"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 737.2,
+            "end": 739.2,
+            "text": " here only. Let me close this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 739.2,
+            "end": 741.2,
+            "text": " So that you can see the code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 741.2,
+            "end": 743.2,
+            "text": " Sometimes we want our code"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 743.2,
+            "end": 745.2,
+            "text": " to be previewed here only."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 745.2,
+            "end": 747.2,
+            "text": " Because we want to see its live preview."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 747.2,
+            "end": 749.2,
+            "text": " So suppose I am writing anything."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 749.2,
+            "end": 751.2,
+            "text": " Harry's course is good."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 751.2,
+            "end": 753.2,
+            "text": " And this is sigma's course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 753.2,
+            "end": 755.2,
+            "text": " Suppose I write something else here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 755.2,
+            "end": 757.2,
+            "text": " I can write here and keep watching."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 757.2,
+            "end": 759.2,
+            "text": " And I can also make it smaller."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 759.2,
+            "end": 761.2,
+            "text": " So I can see the live update here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 761.2,
+            "end": 763.2,
+            "text": " If you have seen my old videos,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 763.2,
+            "end": 765.2,
+            "text": " I have used this extension"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 765.2,
+            "end": 767.2,
+            "text": " of Live Server."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 767.2,
+            "end": 769.2,
+            "text": " Either this extension was not a disaster"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 769.2,
+            "end": 771.2,
+            "text": " or I didn't know."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 771.2,
+            "end": 773.2,
+            "text": " Now if something new comes, it takes time to know."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 773.2,
+            "end": 775.2,
+            "text": " But this is something that you should use."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 775.2,
+            "end": 777.2,
+            "text": " Because I use AC in my daily life."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 777.2,
+            "end": 779.2,
+            "text": " I do web development."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 779.2,
+            "end": 781.2,
+            "text": " Many people asked me,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 781.2,
+            "end": 783.2,
+            "text": " do you also do web development or just teach?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 783.2,
+            "end": 785.2,
+            "text": " I make websites, not only videos."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 785.2,
+            "end": 787.2,
+            "text": " I also work by making websites."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 787.2,
+            "end": 789.2,
+            "text": " And yes, I earn a lot of money"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 789.2,
+            "end": 791.2,
+            "text": " by making websites."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 791.2,
+            "end": 793.2,
+            "text": " Now you will get all this code"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 793.2,
+            "end": 795.2,
+            "text": " on GitHub. So you can go to the video description"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 795.2,
+            "end": 797.2,
+            "text": " of any video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 797.2,
+            "end": 799.2,
+            "text": " You will go to the video description of any video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 799.2,
+            "end": 801.2,
+            "text": " So you will get the corresponding video code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 801.2,
+            "end": 803.2,
+            "text": " You don't have to take that transition."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 803.2,
+            "end": 805.2,
+            "text": " Now I will close this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 805.2,
+            "end": 807.2,
+            "text": " Because my preview is visible here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 807.2,
+            "end": 809.2,
+            "text": " Now consider HTML, CSS, JavaScript"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 809.2,
+            "end": 811.2,
+            "text": " which we talked about in the last video."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 811.2,
+            "end": 813.2,
+            "text": " Now I will tell you how to link all these three."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 813.2,
+            "end": 815.2,
+            "text": " Now you will say, yes, you made index.html."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 815.2,
+            "end": 817.2,
+            "text": " It's a very good title."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 817.2,
+            "end": 819.2,
+            "text": " Here you can see"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 819.2,
+            "end": 821.2,
+            "text": " Harry's course's first website."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 821.2,
+            "end": 823.2,
+            "text": " Suppose I name it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 823.2,
+            "end": 825.2,
+            "text": " sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 825.2,
+            "end": 827.2,
+            "text": " So it will change."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 827.2,
+            "end": 829.2,
+            "text": " sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 829.2,
+            "end": 831.2,
+            "text": " sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 831.2,
+            "end": 833.2,
+            "text": " Here sigma web development course is written."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 833.2,
+            "end": 835.2,
+            "text": " And you can see here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 835.2,
+            "end": 837.2,
+            "text": " that it has been updated."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 837.2,
+            "end": 839.2,
+            "text": " So it will keep updating."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 839.2,
+            "end": 841.2,
+            "text": " Now I want my background to be red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 841.2,
+            "end": 843.2,
+            "text": " This kind of work is done with CSS."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 843.2,
+            "end": 845.2,
+            "text": " So I can write here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 845.2,
+            "end": 847.2,
+            "text": " body and background color red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 847.2,
+            "end": 849.2,
+            "text": " So this is the syntax of CSS."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 849.2,
+            "end": 851.2,
+            "text": " I will teach you CSS"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 851.2,
+            "end": 853.2,
+            "text": " in such a way that you won't be able to forget it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 853.2,
+            "end": 855.2,
+            "text": " Don't worry."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 855.2,
+            "end": 857.2,
+            "text": " This is CSS which makes the color of the body red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 857.2,
+            "end": 859.2,
+            "text": " And here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 859.2,
+            "end": 861.2,
+            "text": " you can see"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 861.2,
+            "end": 863.2,
+            "text": " that the color of the body will be red or not."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 863.2,
+            "end": 865.2,
+            "text": " Now I will tell beginners that it won't be red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 865.2,
+            "end": 867.2,
+            "text": " Why it won't be red?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 867.2,
+            "end": 869.2,
+            "text": " Because it won't be red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 869.2,
+            "end": 871.2,
+            "text": " This HTML file is running now."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 871.2,
+            "end": 873.2,
+            "text": " It doesn't know about this CSS file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 873.2,
+            "end": 875.2,
+            "text": " Now what is happening in my house?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 875.2,
+            "end": 877.2,
+            "text": " My neighbors don't know."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 877.2,
+            "end": 879.2,
+            "text": " Suppose I made a dal here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 879.2,
+            "end": 881.2,
+            "text": " And I expect my neighbors to make rice."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 881.2,
+            "end": 883.2,
+            "text": " And I expect them to eat it together."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 883.2,
+            "end": 885.2,
+            "text": " It doesn't happen."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 885.2,
+            "end": 887.2,
+            "text": " We can eat it sometimes."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 887.2,
+            "end": 889.2,
+            "text": " But you have to link it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 889.2,
+            "end": 891.2,
+            "text": " You have to go and"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 891.2,
+            "end": 893.2,
+            "text": " tell your neighbors that they will eat together."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 893.2,
+            "end": 895.2,
+            "text": " I am making the dal and you are making the rice."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 895.2,
+            "end": 897.2,
+            "text": " Now how will it be a handshake?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 897.2,
+            "end": 899.2,
+            "text": " In HTML you will tell where your CSS file is."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 899.2,
+            "end": 901.2,
+            "text": " So it is a link tag."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 901.2,
+            "end": 903.2,
+            "text": " And you will also know the reason"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 903.2,
+            "end": 905.2,
+            "text": " for not using the notepad."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 905.2,
+            "end": 907.2,
+            "text": " As soon as I write the link here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 907.2,
+            "end": 909.2,
+            "text": " I will select it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 909.2,
+            "end": 911.2,
+            "text": " So it did half of my work."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 911.2,
+            "end": 913.2,
+            "text": " I wrote RL is equal to style sheet."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 913.2,
+            "end": 915.2,
+            "text": " I have to type this manually in notepad."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 915.2,
+            "end": 917.2,
+            "text": " This is syntax of HTML."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 917.2,
+            "end": 919.2,
+            "text": " But here automatically"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 919.2,
+            "end": 921.2,
+            "text": " it will come."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 921.2,
+            "end": 923.2,
+            "text": " Now style.css is my destiny."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 923.2,
+            "end": 925.2,
+            "text": " This is the style of the file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 925.2,
+            "end": 927.2,
+            "text": " If it was called Harry.css"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 927.2,
+            "end": 929.2,
+            "text": " I would have written Harry.css."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 929.2,
+            "end": 931.2,
+            "text": " And guess what?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 931.2,
+            "end": 933.2,
+            "text": " My background is now red."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 933.2,
+            "end": 935.2,
+            "text": " If I want my text to be white"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 935.2,
+            "end": 937.2,
+            "text": " I can write color white."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 937.2,
+            "end": 939.2,
+            "text": " Now nothing will work here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 939.2,
+            "end": 941.2,
+            "text": " I wrote color white."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 941.2,
+            "end": 943.2,
+            "text": " So it is now white."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 943.2,
+            "end": 945.2,
+            "text": " The valid CSS syntax will work."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 945.2,
+            "end": 947.2,
+            "text": " We will talk about it later in this course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 947.2,
+            "end": 949.2,
+            "text": " So this is what we have."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 949.2,
+            "end": 951.2,
+            "text": " Now how will JavaScript work?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 951.2,
+            "end": 953.2,
+            "text": " I will type alert."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 953.2,
+            "end": 955.2,
+            "text": " And I will write"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 955.2,
+            "end": 957.2,
+            "text": " Welcome to sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 957.2,
+            "end": 959.2,
+            "text": " Suppose I wrote"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 959.2,
+            "end": 961.2,
+            "text": " Welcome to sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 961.2,
+            "end": 963.2,
+            "text": " So what will happen?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 963.2,
+            "end": 965.2,
+            "text": " Will the alert come here?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 965.2,
+            "end": 967.2,
+            "text": " Let me tell you that this syntax is absolutely correct."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 967.2,
+            "end": 969.2,
+            "text": " There is no problem in syntax."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 969.2,
+            "end": 971.2,
+            "text": " And I will also read JavaScript very well."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 971.2,
+            "end": 973.2,
+            "text": " So don't worry about this."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 973.2,
+            "end": 975.2,
+            "text": " This is JavaScript code"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 975.2,
+            "end": 977.2,
+            "text": " which will flash on the screen"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 977.2,
+            "end": 979.2,
+            "text": " Welcome to sigma web development course."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 979.2,
+            "end": 981.2,
+            "text": " It flashed."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 981.2,
+            "end": 983.2,
+            "text": " Is my computer broken?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 983.2,
+            "end": 985.2,
+            "text": " No, my computer is absolutely fine."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 985.2,
+            "end": 987.2,
+            "text": " I want to tell you that I have to include the script."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 987.2,
+            "end": 989.2,
+            "text": " And we will include the script before the body."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 989.2,
+            "end": 991.2,
+            "text": " Now as soon as I include the script"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 991.2,
+            "end": 993.2,
+            "text": " I will write"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 993.2,
+            "end": 995.2,
+            "text": " script.js"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 995.2,
+            "end": 997.2,
+            "text": " How did I write this?"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 997.2,
+            "end": 999.2,
+            "text": " First I wrote script."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 999.2,
+            "end": 1001.2,
+            "text": " What did I write here? Script."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1001.2,
+            "end": 1003.2,
+            "text": " Emmet abbreviation."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1003.2,
+            "end": 1005.2,
+            "text": " Emmet is a plugin"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1005.2,
+            "end": 1007.2,
+            "text": " which is built in VS code."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1007.2,
+            "end": 1009.2,
+            "text": " So it will be completed automatically."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1009.2,
+            "end": 1011.2,
+            "text": " Now I am writing script"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1011.2,
+            "end": 1013.2,
+            "text": " and I am selecting colon src"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1013.2,
+            "end": 1015.2,
+            "text": " which means I want to give a source file."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1015.2,
+            "end": 1017.2,
+            "text": " You can also type it manually."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1017.2,
+            "end": 1019.2,
+            "text": " But the suggestions you are getting here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1019.2,
+            "end": 1021.2,
+            "text": " make your code writing"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1021.2,
+            "end": 1023.2,
+            "text": " more powerful."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1023.2,
+            "end": 1025.2,
+            "text": " They make you a great developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1025.2,
+            "end": 1027.2,
+            "text": " and increase your powers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1027.2,
+            "end": 1029.2,
+            "text": " so that you don't get into trouble."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1029.2,
+            "end": 1031.2,
+            "text": " And as soon as possible"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1031.2,
+            "end": 1033.2,
+            "text": " your developer can give you a soul."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1033.2,
+            "end": 1035.2,
+            "text": " src is equal to"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1035.2,
+            "end": 1037.2,
+            "text": " script.js"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1037.2,
+            "end": 1039.2,
+            "text": " Now I will come here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1039.2,
+            "end": 1041.2,
+            "text": " and welcome to sigma web development course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1041.2,
+            "end": 1043.2,
+            "text": " Everyone write in the comments that I have a soul."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1043.2,
+            "end": 1045.2,
+            "text": " Write it because I know"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1045.2,
+            "end": 1047.2,
+            "text": " that you have a soul by looking at this box"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1047.2,
+            "end": 1049.2,
+            "text": " that javascript is also running"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1049.2,
+            "end": 1051.2,
+            "text": " CSS was running and javascript is also running"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1051.2,
+            "end": 1053.2,
+            "text": " Now you have a soul. I will reload it and come back"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1053.2,
+            "end": 1055.2,
+            "text": " I will say ok and it will be closed."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1055.2,
+            "end": 1057.2,
+            "text": " So as soon as I visit this website"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1057.2,
+            "end": 1059.2,
+            "text": " I will see an alert here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1059.2,
+            "end": 1061.2,
+            "text": " which is called alert in javascript."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1061.2,
+            "end": 1063.2,
+            "text": " I will tell you what javascript is."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1063.2,
+            "end": 1065.2,
+            "text": " I don't want to start weirdly"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1065.2,
+            "end": 1067.2,
+            "text": " I will finish html and then css with javascript"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1067.2,
+            "end": 1069.2,
+            "text": " So don't worry."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1069.2,
+            "end": 1071.2,
+            "text": " And along with this, the best practices"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1071.2,
+            "end": 1073.2,
+            "text": " that I am telling you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1073.2,
+            "end": 1075.2,
+            "text": " you have to keep in mind"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1075.2,
+            "end": 1077.2,
+            "text": " because what I am telling you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1077.2,
+            "end": 1079.2,
+            "text": " is coming from my experience"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1079.2,
+            "end": 1081.2,
+            "text": " and it will definitely help you."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1081.2,
+            "end": 1083.2,
+            "text": " As I said, you can use the live server"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1083.2,
+            "end": 1085.2,
+            "text": " nothing wrong in that. Use the live preview"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1085.2,
+            "end": 1087.2,
+            "text": " from Microsoft. Awesome."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1087.2,
+            "end": 1089.2,
+            "text": " Now I want you to write sigma batch op"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1089.2,
+            "end": 1091.2,
+            "text": " in the comments."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1091.2,
+            "end": 1093.2,
+            "text": " So write sigma batch op in the comments"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1093.2,
+            "end": 1095.2,
+            "text": " it will be fun to see"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1095.2,
+            "end": 1097.2,
+            "text": " yes this is batch, it's free course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1097.2,
+            "end": 1099.2,
+            "text": " so write sigma course op"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1099.2,
+            "end": 1101.2,
+            "text": " with html."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1101.2,
+            "end": 1103.2,
+            "text": " Now many people commented in the last video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1103.2,
+            "end": 1105.2,
+            "text": " that how to do this mouse wheel"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1105.2,
+            "end": 1107.2,
+            "text": " so you have to go to settings"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1107.2,
+            "end": 1109.2,
+            "text": " and write mouse wheel"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1109.2,
+            "end": 1111.2,
+            "text": " and here you have to check editor mouse wheel zoom"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1111.2,
+            "end": 1113.2,
+            "text": " then you have to press control"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1113.2,
+            "end": 1115.2,
+            "text": " and I have pressed control"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1115.2,
+            "end": 1117.2,
+            "text": " and I will be able to zoom in"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1117.2,
+            "end": 1119.2,
+            "text": " as I do it."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1119.2,
+            "end": 1121.2,
+            "text": " If I right click and press command palette"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1121.2,
+            "end": 1123.2,
+            "text": " I can toggle screencast mode"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1123.2,
+            "end": 1125.2,
+            "text": " and you will be able to see"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1125.2,
+            "end": 1127.2,
+            "text": " what I am writing here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1127.2,
+            "end": 1129.2,
+            "text": " I have not toggled screencast mode"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1129.2,
+            "end": 1131.2,
+            "text": " in this video because you already know"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1131.2,
+            "end": 1133.2,
+            "text": " what I am typing."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1133.2,
+            "end": 1135.2,
+            "text": " So I can toggle screencast mode"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1135.2,
+            "end": 1137.2,
+            "text": " so that you can see all the things"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1137.2,
+            "end": 1139.2,
+            "text": " that I am doing."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1139.2,
+            "end": 1141.2,
+            "text": " In the last video, we talked about"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1141.2,
+            "end": 1143.2,
+            "text": " how websites work"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1143.2,
+            "end": 1145.2,
+            "text": " and you understood this very well."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1145.2,
+            "end": 1147.2,
+            "text": " Now I will take the example of iphone 15 pro max"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1147.2,
+            "end": 1149.2,
+            "text": " and I will show you how"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1149.2,
+            "end": 1151.2,
+            "text": " client-server interaction will happen"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1151.2,
+            "end": 1153.2,
+            "text": " whenever a user"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1153.2,
+            "end": 1155.2,
+            "text": " orders an iphone."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1155.2,
+            "end": 1157.2,
+            "text": " So you will find it interesting"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1157.2,
+            "end": 1159.2,
+            "text": " so guys, here I will show you how"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1159.2,
+            "end": 1161.2,
+            "text": " websites work."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1161.2,
+            "end": 1163.2,
+            "text": " So now I am on apple.com"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1163.2,
+            "end": 1165.2,
+            "text": " now apple.com is a website"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1165.2,
+            "end": 1167.2,
+            "text": " and you can see the data from their server"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1167.2,
+            "end": 1169.2,
+            "text": " and I will click on preorder"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1169.2,
+            "end": 1171.2,
+            "text": " and I will see the data"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1171.2,
+            "end": 1173.2,
+            "text": " and after that I will simply"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1173.2,
+            "end": 1175.2,
+            "text": " when I am recording"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1175.2,
+            "end": 1177.2,
+            "text": " I will select the color"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1177.2,
+            "end": 1179.2,
+            "text": " I have not selected it yet"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1179.2,
+            "end": 1181.2,
+            "text": " because it will come by september"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1181.2,
+            "end": 1183.2,
+            "text": " I will select the color"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1183.2,
+            "end": 1185.2,
+            "text": " black titanium"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1185.2,
+            "end": 1187.2,
+            "text": " 250 GB, no trade-in, no apple coverage"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1187.2,
+            "end": 1189.2,
+            "text": " and after that you can see"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1189.2,
+            "end": 1191.2,
+            "text": " what they have done"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1191.2,
+            "end": 1193.2,
+            "text": " their communication is going on"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1193.2,
+            "end": 1195.2,
+            "text": " so in total, this is"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1195.2,
+            "end": 1197.2,
+            "text": " HTML, CSS, JavaScript"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1197.2,
+            "end": 1199.2,
+            "text": " and I have sourced the view page"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1199.2,
+            "end": 1201.2,
+            "text": " so you can see it here."
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1201.2,
+            "end": 1203.2,
+            "text": " and here is our original website"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1203.2,
+            "end": 1205.2,
+            "text": " now I will check out here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1205.2,
+            "end": 1207.2,
+            "text": " and continue as a guest"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1207.2,
+            "end": 1209.2,
+            "text": " I will show you something interesting"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1209.2,
+            "end": 1211.2,
+            "text": " whenever I click on inspect and network"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1211.2,
+            "end": 1213.2,
+            "text": " you can see the two-and-four communication"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1213.2,
+            "end": 1215.2,
+            "text": " with apple servers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1215.2,
+            "end": 1217.2,
+            "text": " which means as I am"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1217.2,
+            "end": 1219.2,
+            "text": " doing the action here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1219.2,
+            "end": 1221.2,
+            "text": " JavaScript is communicating to the server"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1221.2,
+            "end": 1223.2,
+            "text": " and there appropriate action"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1223.2,
+            "end": 1225.2,
+            "text": " is taking the server and sending me the data"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1225.2,
+            "end": 1227.2,
+            "text": " I will say I would like to be delivered"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1227.2,
+            "end": 1229.2,
+            "text": " continue shipping address"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1229.2,
+            "end": 1231.2,
+            "text": " I will put the name"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1231.2,
+            "end": 1233.2,
+            "text": " and I will tell you when it comes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1233.2,
+            "end": 1235.2,
+            "text": " I will keep the update"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1235.2,
+            "end": 1237.2,
+            "text": " yes, everything is fine"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1237.2,
+            "end": 1239.2,
+            "text": " I have read the terms and conditions"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1239.2,
+            "end": 1241.2,
+            "text": " I agree, place your order"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1241.2,
+            "end": 1243.2,
+            "text": " please like the video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1243.2,
+            "end": 1245.2,
+            "text": " because I order iPhones to explain web development"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1245.2,
+            "end": 1247.2,
+            "text": " here we have OTP"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1247.2,
+            "end": 1249.2,
+            "text": " I will confirm OTP"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1249.2,
+            "end": 1251.2,
+            "text": " and my purchase is done"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1251.2,
+            "end": 1253.2,
+            "text": " in total,"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1253.2,
+            "end": 1255.2,
+            "text": " I have requested"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1255.2,
+            "end": 1257.2,
+            "text": " something from apple.com"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1257.2,
+            "end": 1259.2,
+            "text": " I have requested for an iPhone 15 Pro Max"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1259.2,
+            "end": 1261.2,
+            "text": " Apple.com has requested for it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1261.2,
+            "end": 1263.2,
+            "text": " so, the communication"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1263.2,
+            "end": 1265.2,
+            "text": " between the server and client"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1265.2,
+            "end": 1267.2,
+            "text": " is done through JavaScript"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1267.2,
+            "end": 1269.2,
+            "text": " without loading the page"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1269.2,
+            "end": 1271.2,
+            "text": " as you have seen I have selected iPhone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1271.2,
+            "end": 1273.2,
+            "text": " and clicked on different things"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1273.2,
+            "end": 1275.2,
+            "text": " so, all these things"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1275.2,
+            "end": 1277.2,
+            "text": " are done through JavaScript"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1277.2,
+            "end": 1279.2,
+            "text": " the styling is done through CSS"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1279.2,
+            "end": 1281.2,
+            "text": " and everything written here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1281.2,
+            "end": 1283.2,
+            "text": " is in HTML"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1283.2,
+            "end": 1285.2,
+            "text": " I hope you remember this example"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1285.2,
+            "end": 1287.2,
+            "text": " and I will show you the phone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1287.2,
+            "end": 1289.2,
+            "text": " and everyone will say"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1289.2,
+            "end": 1291.2,
+            "text": " this is a fake phone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1291.2,
+            "end": 1293.2,
+            "text": " I will show you the phone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1293.2,
+            "end": 1295.2,
+            "text": " so, this is how your website works"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1295.2,
+            "end": 1297.2,
+            "text": " how to communicate with client"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1297.2,
+            "end": 1299.2,
+            "text": " I hope you understood from this example"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1299.2,
+            "end": 1301.2,
+            "text": " please tell me in the comment section"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1301.2,
+            "end": 1303.2,
+            "text": " if I want to give away this iPhone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1303.2,
+            "end": 1305.2,
+            "text": " what will be the best thing"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1305.2,
+            "end": 1307.2,
+            "text": " that you also know that I have given it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1307.2,
+            "end": 1309.2,
+            "text": " and I will also give it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1309.2,
+            "end": 1311.2,
+            "text": " please tell me in the comment section"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1311.2,
+            "end": 1313.2,
+            "text": " so, you know about this"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1313.2,
+            "end": 1315.2,
+            "text": " now I want to tell you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1315.2,
+            "end": 1317.2,
+            "text": " if you go to codevidari.com"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1317.2,
+            "end": 1319.2,
+            "text": " you will find notes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1319.2,
+            "end": 1321.2,
+            "text": " and you can download"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1321.2,
+            "end": 1323.2,
+            "text": " notes here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1323.2,
+            "end": 1325.2,
+            "text": " and you will also find cheat sheets"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1325.2,
+            "end": 1327.2,
+            "text": " for example, if I want to"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1327.2,
+            "end": 1329.2,
+            "text": " access HTML cheat sheet"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1329.2,
+            "end": 1331.2,
+            "text": " I can access cheat sheet"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1331.2,
+            "end": 1333.2,
+            "text": " here you can see all the elements"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1333.2,
+            "end": 1335.2,
+            "text": " but in this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1335.2,
+            "end": 1337.2,
+            "text": " I will tell you about all the elements"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1337.2,
+            "end": 1339.2,
+            "text": " and if you want to download notes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1339.2,
+            "end": 1341.2,
+            "text": " from HTML handwritten"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1341.2,
+            "end": 1343.2,
+            "text": " you can download PDF notes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1343.2,
+            "end": 1345.2,
+            "text": " here I have written handwritten"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1345.2,
+            "end": 1347.2,
+            "text": " you will enjoy reading"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1347.2,
+            "end": 1349.2,
+            "text": " I will tell you everything in this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1349.2,
+            "end": 1351.2,
+            "text": " but you will enjoy more if you download notes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1351.2,
+            "end": 1353.2,
+            "text": " your learning experience will be"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1353.2,
+            "end": 1355.2,
+            "text": " so much fun"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1355.2,
+            "end": 1357.2,
+            "text": " now I want you all"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1357.2,
+            "end": 1359.2,
+            "text": " to do one thing"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1359.2,
+            "end": 1361.2,
+            "text": " put the initial review of this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1361.2,
+            "end": 1363.2,
+            "text": " in this first video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1363.2,
+            "end": 1365.2,
+            "text": " I want you all to go to this video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1365.2,
+            "end": 1367.2,
+            "text": " and post the initial review in the comment section"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1367.2,
+            "end": 1369.2,
+            "text": " I want you all to"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1369.2,
+            "end": 1371.2,
+            "text": " write the link of this first video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1371.2,
+            "end": 1373.2,
+            "text": " and tell me how you liked this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1373.2,
+            "end": 1375.2,
+            "text": " and give me stars out of 5"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1375.2,
+            "end": 1377.2,
+            "text": " tell me by rating this as star"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1377.2,
+            "end": 1379.2,
+            "text": " this is the initial review"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1379.2,
+            "end": 1381.2,
+            "text": " I know the course is not that good"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1381.2,
+            "end": 1383.2,
+            "text": " but the quality and all these things"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1383.2,
+            "end": 1385.2,
+            "text": " I want you all to comment in the first video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1385.2,
+            "end": 1387.2,
+            "text": " if you do this, I will feel good"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1387.2,
+            "end": 1389.2,
+            "text": " go to the first video and read this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1389.2,
+            "end": 1391.2,
+            "text": " now we will talk about"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1391.2,
+            "end": 1393.2,
+            "text": " how you can earn money"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1393.2,
+            "end": 1395.2,
+            "text": " after doing this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1395.2,
+            "end": 1397.2,
+            "text": " the first way to earn money from web development"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1397.2,
+            "end": 1399.2,
+            "text": " is to do freelance as a web developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1399.2,
+            "end": 1401.2,
+            "text": " make websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1401.2,
+            "end": 1403.2,
+            "text": " there are many websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1403.2,
+            "end": 1405.2,
+            "text": " which you can make"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1405.2,
+            "end": 1407.2,
+            "text": " and you will get good money from them"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1407.2,
+            "end": 1409.2,
+            "text": " many people integrate APIs"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1409.2,
+            "end": 1411.2,
+            "text": " and earn good money from them"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1411.2,
+            "end": 1413.2,
+            "text": " many people say chat gbt is here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1413.2,
+            "end": 1415.2,
+            "text": " and now chat gbt is here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1415.2,
+            "end": 1417.2,
+            "text": " so chat gbt will not be possible"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1417.2,
+            "end": 1419.2,
+            "text": " but this is not true"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1419.2,
+            "end": 1421.2,
+            "text": " I think it is easier to make a website for you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1421.2,
+            "end": 1423.2,
+            "text": " and when you use chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1423.2,
+            "end": 1425.2,
+            "text": " you become a giga chat developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1425.2,
+            "end": 1427.2,
+            "text": " music"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1427.2,
+            "end": 1429.2,
+            "text": " music"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1429.2,
+            "end": 1431.2,
+            "text": " so use chat gbt as much as you can"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1431.2,
+            "end": 1433.2,
+            "text": " and you can save your time"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1433.2,
+            "end": 1435.2,
+            "text": " infact, since the time chat gbt came"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1435.2,
+            "end": 1437.2,
+            "text": " I am able to deliver more"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1437.2,
+            "end": 1439.2,
+            "text": " to my freelancing clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1439.2,
+            "end": 1441.2,
+            "text": " I have to make more websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1441.2,
+            "end": 1443.2,
+            "text": " I can do more than half of the work"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1443.2,
+            "end": 1445.2,
+            "text": " and the work which chat gbt can't do"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1445.2,
+            "end": 1447.2,
+            "text": " I do that and finally I package it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1447.2,
+            "end": 1449.2,
+            "text": " and I don't have to answer anyone"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1449.2,
+            "end": 1451.2,
+            "text": " that what I used from chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1451.2,
+            "end": 1453.2,
+            "text": " what I did without chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1453.2,
+            "end": 1455.2,
+            "text": " you can easily deliver everything"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1455.2,
+            "end": 1457.2,
+            "text": " so use chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1457.2,
+            "end": 1459.2,
+            "text": " chat gbt can't do everything"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1459.2,
+            "end": 1461.2,
+            "text": " you have to use chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1461.2,
+            "end": 1463.2,
+            "text": " and then make websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1463.2,
+            "end": 1465.2,
+            "text": " and deliver to your freelancing clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1465.2,
+            "end": 1467.2,
+            "text": " from where you can get freelancing clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1467.2,
+            "end": 1469.2,
+            "text": " you can go to a website like fiverr"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1469.2,
+            "end": 1471.2,
+            "text": " I know it is difficult to get work on fiverr"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1471.2,
+            "end": 1473.2,
+            "text": " but you can go to buyer request"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1473.2,
+            "end": 1475.2,
+            "text": " there is a buyer request option"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1475.2,
+            "end": 1477.2,
+            "text": " you can match with the buyer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1477.2,
+            "end": 1479.2,
+            "text": " if I show you the images"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1479.2,
+            "end": 1481.2,
+            "text": " you can get buyer requests"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1481.2,
+            "end": 1483.2,
+            "text": " you can pitch to them"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1483.2,
+            "end": 1485.2,
+            "text": " so I have done this"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1485.2,
+            "end": 1487.2,
+            "text": " and now I have to do this"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1487.2,
+            "end": 1489.2,
+            "text": " you will get work from here"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1489.2,
+            "end": 1491.2,
+            "text": " you will earn more money"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1491.2,
+            "end": 1493.2,
+            "text": " as you get good reviews on your gig"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1493.2,
+            "end": 1495.2,
+            "text": " suppose you have a gig of fiverr"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1495.2,
+            "end": 1497.2,
+            "text": " and no one has ever ordered"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1497.2,
+            "end": 1499.2,
+            "text": " then you will never get work easily"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1499.2,
+            "end": 1501.2,
+            "text": " but if you have 5-6 people"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1501.2,
+            "end": 1503.2,
+            "text": " and everyone has given you 5 stars"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1503.2,
+            "end": 1505.2,
+            "text": " then things will be easier for you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1505.2,
+            "end": 1507.2,
+            "text": " because the buyers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1507.2,
+            "end": 1509.2,
+            "text": " want the ones they are getting work"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1509.2,
+            "end": 1511.2,
+            "text": " to have a good credibility"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1511.2,
+            "end": 1513.2,
+            "text": " and they are also giving money"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1513.2,
+            "end": 1515.2,
+            "text": " so they want their money to be not wasted"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1515.2,
+            "end": 1517.2,
+            "text": " so here you can get"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1517.2,
+            "end": 1519.2,
+            "text": " fiverr, upwork and many more"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1519.2,
+            "end": 1521.2,
+            "text": " freelancing websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1521.2,
+            "end": 1523.2,
+            "text": " but before trying you should know"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1523.2,
+            "end": 1525.2,
+            "text": " how to make good websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1525.2,
+            "end": 1527.2,
+            "text": " and today you can use responsive"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1527.2,
+            "end": 1529.2,
+            "text": " cutting edge technologies"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1529.2,
+            "end": 1531.2,
+            "text": " you can integrate chat gbt"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1531.2,
+            "end": 1533.2,
+            "text": " you will get such work"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1533.2,
+            "end": 1535.2,
+            "text": " no one will ask you to make a design"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1535.2,
+            "end": 1537.2,
+            "text": " or a simple navbar"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1537.2,
+            "end": 1539.2,
+            "text": " I am saying most of the clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1539.2,
+            "end": 1541.2,
+            "text": " you can earn more money"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1541.2,
+            "end": 1543.2,
+            "text": " by making complex websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1543.2,
+            "end": 1545.2,
+            "text": " then get a job"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1545.2,
+            "end": 1547.2,
+            "text": " as a web developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1547.2,
+            "end": 1549.2,
+            "text": " if you get a job"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1549.2,
+            "end": 1551.2,
+            "text": " which you will get if you become a good web developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1551.2,
+            "end": 1553.2,
+            "text": " and it's not like that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1553.2,
+            "end": 1555.2,
+            "text": " in fact, the demand of senior developers is increasing"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1555.2,
+            "end": 1557.2,
+            "text": " and their backgage is also increasing"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1557.2,
+            "end": 1559.2,
+            "text": " people are earning more in coding"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1559.2,
+            "end": 1561.2,
+            "text": " than before"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1561.2,
+            "end": 1563.2,
+            "text": " if you are a basic developer"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1563.2,
+            "end": 1565.2,
+            "text": " then chat gbt will replace you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1565.2,
+            "end": 1567.2,
+            "text": " after this you can sell your services"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1567.2,
+            "end": 1569.2,
+            "text": " if you make a social media account"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1569.2,
+            "end": 1571.2,
+            "text": " and upload your images"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1571.2,
+            "end": 1573.2,
+            "text": " and you get a little traction"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1573.2,
+            "end": 1575.2,
+            "text": " where you talk about websites"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1575.2,
+            "end": 1577.2,
+            "text": " you can get clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1577.2,
+            "end": 1579.2,
+            "text": " who approach you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1579.2,
+            "end": 1581.2,
+            "text": " they say they want to make a website"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1581.2,
+            "end": 1583.2,
+            "text": " I am not saying that you should have"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1583.2,
+            "end": 1585.2,
+            "text": " many followers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1585.2,
+            "end": 1587.2,
+            "text": " you can start with very less"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1587.2,
+            "end": 1589.2,
+            "text": " after this you can give people one to one help"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1589.2,
+            "end": 1591.2,
+            "text": " you can get this from clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1591.2,
+            "end": 1593.2,
+            "text": " Instagram or social media"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1593.2,
+            "end": 1595.2,
+            "text": " you can say at the end of your reel"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1595.2,
+            "end": 1597.2,
+            "text": " you can send me a DM"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1597.2,
+            "end": 1599.2,
+            "text": " I will tell you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1599.2,
+            "end": 1601.2,
+            "text": " and you can easily get clients"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1601.2,
+            "end": 1603.2,
+            "text": " trust me if it helps you"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1603.2,
+            "end": 1605.2,
+            "text": " after this you can sell codes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1605.2,
+            "end": 1607.2,
+            "text": " I was going to sell this code"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1607.2,
+            "end": 1609.2,
+            "text": " I have uploaded it for free"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1609.2,
+            "end": 1611.2,
+            "text": " but this code was going to be paid"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1611.2,
+            "end": 1613.2,
+            "text": " and when you get this code"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1613.2,
+            "end": 1615.2,
+            "text": " then everyone will pay for it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1615.2,
+            "end": 1617.2,
+            "text": " it's not necessary"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1617.2,
+            "end": 1619.2,
+            "text": " that you have to make a web development course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1619.2,
+            "end": 1621.2,
+            "text": " there are many things in web development"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1621.2,
+            "end": 1623.2,
+            "text": " like how to use chat gbt API"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1623.2,
+            "end": 1625.2,
+            "text": " how to use chat gbt API"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1625.2,
+            "end": 1627.2,
+            "text": " how to make a website"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1627.2,
+            "end": 1629.2,
+            "text": " it will be easy to sell codes"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1629.2,
+            "end": 1631.2,
+            "text": " the course economy is huge"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1631.2,
+            "end": 1633.2,
+            "text": " many people contacted me"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1633.2,
+            "end": 1635.2,
+            "text": " to buy this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1635.2,
+            "end": 1637.2,
+            "text": " to launch this course as a paid course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1637.2,
+            "end": 1639.2,
+            "text": " but I didn't do it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1639.2,
+            "end": 1641.2,
+            "text": " because I wanted to give it free"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1641.2,
+            "end": 1643.2,
+            "text": " I decided and posted it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1643.2,
+            "end": 1645.2,
+            "text": " people contacted me till the last moment"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1645.2,
+            "end": 1647.2,
+            "text": " asking me not to put the course for free"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1647.2,
+            "end": 1649.2,
+            "text": " but I did it"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1649.2,
+            "end": 1651.2,
+            "text": " so you have to write sigma batch op in the comment section"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1651.2,
+            "end": 1653.2,
+            "text": " so many course sellers"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1653.2,
+            "end": 1655.2,
+            "text": " suffered from this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1655.2,
+            "end": 1657.2,
+            "text": " because when you get"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1657.2,
+            "end": 1659.2,
+            "text": " iPhone 15, 16, 19 Pro Max for free"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1659.2,
+            "end": 1661.2,
+            "text": " then who will ask Blackberry"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1661.2,
+            "end": 1663.2,
+            "text": " and I am saying this because"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1663.2,
+            "end": 1665.2,
+            "text": " I have put a lot of effort"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1665.2,
+            "end": 1667.2,
+            "text": " and experience in this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1667.2,
+            "end": 1669.2,
+            "text": " and only I know that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1669.2,
+            "end": 1671.2,
+            "text": " you will also know that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1671.2,
+            "end": 1673.2,
+            "text": " so stay tuned"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1673.2,
+            "end": 1675.2,
+            "text": " you will get many things in this course"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1675.2,
+            "end": 1677.2,
+            "text": " I am aware of the fact that"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1677.2,
+            "end": 1679.2,
+            "text": " we are taking a slow start"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1679.2,
+            "end": 1681.2,
+            "text": " so do access the playlist"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1681.2,
+            "end": 1683.2,
+            "text": " like the video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1683.2,
+            "end": 1685.2,
+            "text": " and thank you so much for watching this video"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1685.2,
+            "end": 1687.2,
+            "text": " and I will see you next time"
+        },
+        {
+            "Video": "2_Your First HTML Website .mp3",
+            "start": 1709.2,
+            "end": 1711.2,
+            "text": " bye"
+        }
+    ],
+    "text": " In the last video, you guys gave me a lot of love. It's my pleasure to keep this course free. There is a like for this free course. You know, when I started web development, there was no comprehensive course of this quality. Forget about free or paid, there was no such course. So I can understand that the free course is very important for some people. And trust me, I live up to the expectations. With that said, like this video because we are going to make our first website in this video. And in this video, I am going to order the iPhone 15 Pro Max. Why, how, what will happen, we'll see in the next video. For some of you, this will be the first website of your life. So it's going to be fun. You guys are excited, right? Write in the comments, I am excited. And whatever you write in the comments, I will give heart to all those comments. In this video, we will learn to link an HTML website with CSS and JavaScript. Along with that, in this video, I am going to give you notes, cheat sheets, and many other resources. I will tell you some such techniques that I have learned in years. And we will make your web development speed 10x. In this video, we will also see how to make our VS Code awesome. That your VS Code screen will look like a killer. In this video, I will also tell you how to earn money from web development. So let's start with full energy. Let's roll the intro. Music Alright guys, so we have come to our computer screen. Before moving forward in the video, I would like to tell you all to access this playlist. Secondly, we are very close to 5 million subscribers. So if you haven't hit the subscribe button, then do it. In today's video, we are going to make our first website, as I have already told you. The first thing we will do is to customize our VS Code. So this is the folder in which we started our web development series. Now I want to give you the source code of this web development series. So I will configure git here. For you, it is not necessary to know about git. But I will fire the GitHub desktop here. And what I will do here is that I will add a new repository. I will click on add, create new repository. I will name it sigma web dev course. And this is our repository. So I will select this folder. I will initialize this repository with readme. And I will write the source code for sigma web development course here. I will click on create repository. By doing this, a repository will be created here, which is called sigma web dev course. I will add all the things that were relevant to the first video here. So these were the files that were relevant to the first video. So I will name it video1. Right click, new folder. I will make a video1 here. And I will move these files to video1 folder. I am not pushing all the videos on git. Because this is a sample video. You can use your sample videos. So now I will keep updating the source code here. And I will keep pushing it on git. Now how do I push it on git? You don't need to learn this. But this procedure is very simple. Why do I use git? I would like to tell you that git is used by web developers. Or by general coders. When they have to collaborate their code with other people. So what will happen is that you will work with many programmers. And those programmers will collaborate with your source code. And to do this kind of collaboration, they will push some code. You will also push some code. Maybe one person is editing one file. Another person is editing another file. So here, git hub is used. And what is git hub desktop? It is a utility to use git. The difference between git and git hub is that git is open source. But git hub is a Microsoft owned company. Which uses git to help you to host repositories on your web interface. I will tell you more about git in the upcoming videos. But I am pushing this repository on my code with hari GitHub account. So you will get the link of repository in the description. So as soon as I give you the links, you will get the whole code. And I will talk about this later. I am making this video as a course impact. So that absolute beginners can follow this. So as soon as I click on the published repository, I will get the link of this code. This folder will sync with my GitHub account. So all the code that I am going to upload here will go to my GitHub account and will keep on syncing. All the changes will be there. If someone has made any changes there, I can pull them here. I can click on it and then I can pull it. I will teach you all this. I will dedicate the whole video to git. Don't worry. I did this so that I can give you the code. Now I will make a folder called video2. And I will go inside this folder. I will press shift and right click and open with VS code. So here it is open with code. You will get this option. If you have installed VS code as I have said. If you have made any changes and you have not checked those check boxes that I have shown you, then you may have a problem. So we will no this. We will dismiss the notification. Now whatever file I will make here, like I will make index.html here, that file will be made here too. So everyone knows about this. I know that many intermediate people are saying that we already know all these things. But I am making this course so that all beginners can follow along. So I will make 3 files here. One I have made index.html. The second file I am going to make is style.css. And the third file I am going to make is script.js. And the name of these files can be anything. But I just want to keep these files self-explanatory. So that we can see their names and know what they are doing. index.html, html file, script.js, javascript file, style.css, a style sheet. So I have made these 3 files here. I will go to index.html and put an exclamation mark. As soon as I put an exclamation mark, you can see that this code has come here. I will click on view word wrap so that you can see this code. The horizontal scroll bar from word wrap is removed. I have checked the word wrap here. So here you can see that we will understand this code. But for now, you can understand that this code, html code, we use it to make a website. Now come to the extensions tab of VS Code. Extensions are used to enhance the functionality of VS Code. We use extensions to make VS Code better. The extensions of VS Code help us to write code. So which extension we will use? First of all, I will put some extensions which will make our VS Code very clear. If your friends see this, they will say that it is a hacker. So what I will do now is VS Code Icons. VS Code Icons is an extension which I will install. You will get to know that whatever file you are looking at, its icon has come. This icon was not coming earlier. You can see all the icons here. Thanks for installing VS Code Icons. I will activate it here. And you can see that our icons are looking good. In the coming time, if we make a folder, then we will get this kind of icon. So these icons look good. We will come to the extensions tab again. And here there are many good themes which you can use. There are some themes. Jellyfish theme, GitHub theme. There are many themes which you can use. But I can only use one theme at a time. This is the default VS Code theme which shows you VS Code in this way. Now if I change my theme, then my VS Code will look different. I will show you which one I will prefer when it comes to themes. First of all, I will show you GitHub theme here how it looks. So GitHub theme is an official theme which is provided by GitHub. Here you can see GitHub dark, GitHub light, GitHub dimmed, GitHub colorblind. I like this one better because the colors in it are... Sorry, I don't like this one. I will choose GitHub dark because the colors are highlighted differently. Another theme which is preferred is Jellyfish. And many people like the Jellyfish theme. If I install it, then the VS Code will look like this. Jellyfish will look like this. Another theme is material theme which is popular. If I use material theme and we have to install material theme with material theme icons. If you have installed material theme icons then you can change the icons to control which extension you want. And here we have installed many extensions. I will also tell you how to delete extensions. Here I am showing the VS Code material theme icons in this way. You can use VS Code icons. If I want to delete material theme icons then I will simply remove this icon. And all the extensions that are visible here like this material theme icon and I want to use this one then I will select it. If I want, I can uninstall it. And sometimes when we do anything uninstalling then we need to click on reload required. And when I click on reload required then my VS Code will be reloaded. You can customize it. I will select VS Code icons so that my icons look like this. I like this a little. I also like Jellyfish theme. After this there is another extension which is called Prettier. I will not install it but I just want to tell you. There is another extension called ES7 and we will react to it. Sorry for the spoilers but we are going to react to it. So here we have ES7 plus React Redux and this is the extension which gives you the react snippets. We will use it only when we react. We will not install it for now. But the most important extension is called Live Preview. We will install this extension because it is a very useful extension. All the extensions I have told you mostly help you in changing the look and feel of VS Code. But the extension that I am telling you Live Preview will be used in actual. So here we have HTML, CSS and JavaScript files. So here are our HTML, CSS and JavaScript files. This is the HTML file. This is some code which tells the website how to look. So here I am telling you that the title should be document. I will write here Harry's first website. Harry's first website. Harry's first website. Harry's first website will be a lie. Your first website. You have to write your name in it. Whatever your name is. And here if I write in body Hey this is my first website. And everyone write congratulations in the comment. Everyone who has this website. Congratulations for my first website. And congratulate each other. Make the atmosphere in the comment section. I also come in the comment section. And I give my heart to everyone. Now, let me see how to do this. The biggest question is, there are two ways to see this. The two ways to see is to install the extension Live Preview. Before Live server was also working but Microsoft released this Live Preview. So I will recommend this extension. This is also working. But I am not going to run Live server. I am going to use Live Preview. After installing Live Preview, you see this icon. You will click this and your website will look like this. Now you will say that I want to see this website in the browser. Because my website will be in the browser. So if you want to see this in the browser, click here. Open in browser and it will open in the browser. And let me tell you something interesting. You can close this and write here that Harry's course is good. Suppose you wrote it. I am praising my own course. But yes, Harry's course is good. I wrote it here. And you noticed one thing here. I didn't reload this website. But even after that, it updated this content. Which I wrote in this VS Code. Which means whatever I write here, without reloading, it will be updated. Will it be updated or not? Clap your hands. It will be updated. And here, this is my first website. Harry's course is good. Let me write here. Sigma Harry's course is good. Sigma Harry's course is good. So here you have seen how this extension will help us. Even if you reload it, it won't matter because it is being reloaded live. There are two things. Sometimes we want our page to be previewed here only. Let me close this. So that you can see the code. Sometimes we want our code to be previewed here only. Because we want to see its live preview. So suppose I am writing anything. Harry's course is good. And this is sigma's course. Suppose I write something else here. I can write here and keep watching. And I can also make it smaller. So I can see the live update here. If you have seen my old videos, I have used this extension of Live Server. Either this extension was not a disaster or I didn't know. Now if something new comes, it takes time to know. But this is something that you should use. Because I use AC in my daily life. I do web development. Many people asked me, do you also do web development or just teach? I make websites, not only videos. I also work by making websites. And yes, I earn a lot of money by making websites. Now you will get all this code on GitHub. So you can go to the video description of any video. You will go to the video description of any video. So you will get the corresponding video code. You don't have to take that transition. Now I will close this. Because my preview is visible here. Now consider HTML, CSS, JavaScript which we talked about in the last video. Now I will tell you how to link all these three. Now you will say, yes, you made index.html. It's a very good title. Here you can see Harry's course's first website. Suppose I name it sigma web development course. So it will change. sigma web development course. sigma web development course. Here sigma web development course is written. And you can see here that it has been updated. So it will keep updating. Now I want my background to be red. This kind of work is done with CSS. So I can write here body and background color red. So this is the syntax of CSS. I will teach you CSS in such a way that you won't be able to forget it. Don't worry. This is CSS which makes the color of the body red. And here you can see that the color of the body will be red or not. Now I will tell beginners that it won't be red. Why it won't be red? Because it won't be red. This HTML file is running now. It doesn't know about this CSS file. Now what is happening in my house? My neighbors don't know. Suppose I made a dal here. And I expect my neighbors to make rice. And I expect them to eat it together. It doesn't happen. We can eat it sometimes. But you have to link it. You have to go and tell your neighbors that they will eat together. I am making the dal and you are making the rice. Now how will it be a handshake? In HTML you will tell where your CSS file is. So it is a link tag. And you will also know the reason for not using the notepad. As soon as I write the link here I will select it. So it did half of my work. I wrote RL is equal to style sheet. I have to type this manually in notepad. This is syntax of HTML. But here automatically it will come. Now style.css is my destiny. This is the style of the file. If it was called Harry.css I would have written Harry.css. And guess what? My background is now red. If I want my text to be white I can write color white. Now nothing will work here. I wrote color white. So it is now white. The valid CSS syntax will work. We will talk about it later in this course. So this is what we have. Now how will JavaScript work? I will type alert. And I will write Welcome to sigma web development course. Suppose I wrote Welcome to sigma web development course. So what will happen? Will the alert come here? Let me tell you that this syntax is absolutely correct. There is no problem in syntax. And I will also read JavaScript very well. So don't worry about this. This is JavaScript code which will flash on the screen Welcome to sigma web development course. It flashed. Is my computer broken? No, my computer is absolutely fine. I want to tell you that I have to include the script. And we will include the script before the body. Now as soon as I include the script I will write script.js How did I write this? First I wrote script. What did I write here? Script. Emmet abbreviation. Emmet is a plugin which is built in VS code. So it will be completed automatically. Now I am writing script and I am selecting colon src which means I want to give a source file. You can also type it manually. But the suggestions you are getting here make your code writing more powerful. They make you a great developer and increase your powers so that you don't get into trouble. And as soon as possible your developer can give you a soul. src is equal to script.js Now I will come here and welcome to sigma web development course Everyone write in the comments that I have a soul. Write it because I know that you have a soul by looking at this box that javascript is also running CSS was running and javascript is also running Now you have a soul. I will reload it and come back I will say ok and it will be closed. So as soon as I visit this website I will see an alert here which is called alert in javascript. I will tell you what javascript is. I don't want to start weirdly I will finish html and then css with javascript So don't worry. And along with this, the best practices that I am telling you you have to keep in mind because what I am telling you is coming from my experience and it will definitely help you. As I said, you can use the live server nothing wrong in that. Use the live preview from Microsoft. Awesome. Now I want you to write sigma batch op in the comments. So write sigma batch op in the comments it will be fun to see yes this is batch, it's free course so write sigma course op with html. Now many people commented in the last video that how to do this mouse wheel so you have to go to settings and write mouse wheel and here you have to check editor mouse wheel zoom then you have to press control and I have pressed control and I will be able to zoom in as I do it. If I right click and press command palette I can toggle screencast mode and you will be able to see what I am writing here. I have not toggled screencast mode in this video because you already know what I am typing. So I can toggle screencast mode so that you can see all the things that I am doing. In the last video, we talked about how websites work and you understood this very well. Now I will take the example of iphone 15 pro max and I will show you how client-server interaction will happen whenever a user orders an iphone. So you will find it interesting so guys, here I will show you how websites work. So now I am on apple.com now apple.com is a website and you can see the data from their server and I will click on preorder and I will see the data and after that I will simply when I am recording I will select the color I have not selected it yet because it will come by september I will select the color black titanium 250 GB, no trade-in, no apple coverage and after that you can see what they have done their communication is going on so in total, this is HTML, CSS, JavaScript and I have sourced the view page so you can see it here. and here is our original website now I will check out here and continue as a guest I will show you something interesting whenever I click on inspect and network you can see the two-and-four communication with apple servers which means as I am doing the action here JavaScript is communicating to the server and there appropriate action is taking the server and sending me the data I will say I would like to be delivered continue shipping address I will put the name and I will tell you when it comes I will keep the update yes, everything is fine I have read the terms and conditions I agree, place your order please like the video because I order iPhones to explain web development here we have OTP I will confirm OTP and my purchase is done in total, I have requested something from apple.com I have requested for an iPhone 15 Pro Max Apple.com has requested for it so, the communication between the server and client is done through JavaScript without loading the page as you have seen I have selected iPhone and clicked on different things so, all these things are done through JavaScript the styling is done through CSS and everything written here is in HTML I hope you remember this example and I will show you the phone and everyone will say this is a fake phone I will show you the phone so, this is how your website works how to communicate with client I hope you understood from this example please tell me in the comment section if I want to give away this iPhone what will be the best thing that you also know that I have given it and I will also give it please tell me in the comment section so, you know about this now I want to tell you if you go to codevidari.com you will find notes and you can download notes here and you will also find cheat sheets for example, if I want to access HTML cheat sheet I can access cheat sheet here you can see all the elements but in this course I will tell you about all the elements and if you want to download notes from HTML handwritten you can download PDF notes here I have written handwritten you will enjoy reading I will tell you everything in this course but you will enjoy more if you download notes your learning experience will be so much fun now I want you all to do one thing put the initial review of this course in this first video I want you all to go to this video and post the initial review in the comment section I want you all to write the link of this first video and tell me how you liked this course and give me stars out of 5 tell me by rating this as star this is the initial review I know the course is not that good but the quality and all these things I want you all to comment in the first video if you do this, I will feel good go to the first video and read this course now we will talk about how you can earn money after doing this course the first way to earn money from web development is to do freelance as a web developer make websites there are many websites which you can make and you will get good money from them many people integrate APIs and earn good money from them many people say chat gbt is here and now chat gbt is here so chat gbt will not be possible but this is not true I think it is easier to make a website for you and when you use chat gbt you become a giga chat developer music music so use chat gbt as much as you can and you can save your time infact, since the time chat gbt came I am able to deliver more to my freelancing clients I have to make more websites I can do more than half of the work and the work which chat gbt can't do I do that and finally I package it and I don't have to answer anyone that what I used from chat gbt what I did without chat gbt you can easily deliver everything so use chat gbt chat gbt can't do everything you have to use chat gbt and then make websites and deliver to your freelancing clients from where you can get freelancing clients you can go to a website like fiverr I know it is difficult to get work on fiverr but you can go to buyer request there is a buyer request option you can match with the buyer if I show you the images you can get buyer requests you can pitch to them so I have done this and now I have to do this you will get work from here you will earn more money as you get good reviews on your gig suppose you have a gig of fiverr and no one has ever ordered then you will never get work easily but if you have 5-6 people and everyone has given you 5 stars then things will be easier for you because the buyers want the ones they are getting work to have a good credibility and they are also giving money so they want their money to be not wasted so here you can get fiverr, upwork and many more freelancing websites but before trying you should know how to make good websites and today you can use responsive cutting edge technologies you can integrate chat gbt you will get such work no one will ask you to make a design or a simple navbar I am saying most of the clients you can earn more money by making complex websites then get a job as a web developer if you get a job which you will get if you become a good web developer and it's not like that in fact, the demand of senior developers is increasing and their backgage is also increasing people are earning more in coding than before if you are a basic developer then chat gbt will replace you after this you can sell your services if you make a social media account and upload your images and you get a little traction where you talk about websites you can get clients who approach you they say they want to make a website I am not saying that you should have many followers you can start with very less after this you can give people one to one help you can get this from clients Instagram or social media you can say at the end of your reel you can send me a DM I will tell you and you can easily get clients trust me if it helps you after this you can sell codes I was going to sell this code I have uploaded it for free but this code was going to be paid and when you get this code then everyone will pay for it it's not necessary that you have to make a web development course there are many things in web development like how to use chat gbt API how to use chat gbt API how to make a website it will be easy to sell codes the course economy is huge many people contacted me to buy this course to launch this course as a paid course but I didn't do it because I wanted to give it free I decided and posted it people contacted me till the last moment asking me not to put the course for free but I did it so you have to write sigma batch op in the comment section so many course sellers suffered from this course because when you get iPhone 15, 16, 19 Pro Max for free then who will ask Blackberry and I am saying this because I have put a lot of effort and experience in this course and only I know that you will also know that so stay tuned you will get many things in this course I am aware of the fact that we are taking a slow start so do access the playlist like the video and thank you so much for watching this video and I will see you next time bye"
+}

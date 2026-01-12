@@ -6,17 +6,21 @@ import json
 import time
 import pandas as pd
 
-# ---------------------------------
+
 # CONFIG
-# ---------------------------------
+
 OLLAMA_URL = "http://localhost:11434/api/embed"
 MODEL = "bge-m3"
 BATCH_SIZE = 16
 
 
-# ---------------------------------
 # 1. Validate text
-# ---------------------------------
+
+# reducing the length of the text so that
+# only a optimun length sentence remain in the list of the sentences 
+# to avoid crashing of the model 
+
+
 def is_valid_text(text, min_len=15, max_len=1800):
     if not isinstance(text, str):
         return False
@@ -28,9 +32,9 @@ def is_valid_text(text, min_len=15, max_len=1800):
     return True
 
 
-# ---------------------------------
+
 # 2. Embed SINGLE text (fallback-safe)
-# ---------------------------------
+
 def embed_single(text):
     r = requests.post(
         OLLAMA_URL,
@@ -43,9 +47,9 @@ def embed_single(text):
     return data["embeddings"][0]
 
 
-# ---------------------------------
+
 # 3. Embed chunks with batch + fallback
-# ---------------------------------
+
 def embed_chunks_safe(chunks):
     embedded_chunks = []
 
@@ -77,7 +81,7 @@ def embed_chunks_safe(chunks):
                 embedded_chunks.append(ordered_chunk)
             continue
 
-        # ❌ Batch failed → fallback per chunk
+        # ❌ Batch failed then fallback to individusal chunk
         print("⚠️ Batch failed, retrying individually...")
 
         for chunk in batch_chunks:
@@ -100,9 +104,9 @@ def embed_chunks_safe(chunks):
     return embedded_chunks
 
 
-# ---------------------------------
+
 # 4. Process all JSON files
-# ---------------------------------
+
 json_folder = "json"
 json_files = os.listdir(json_folder)
 print(json_files)
